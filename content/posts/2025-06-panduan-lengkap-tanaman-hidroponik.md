@@ -3,7 +3,7 @@ title: "Panduan Lengkap Tanaman Hidroponik: Dari Nol Sampai Panen (2025)"
 date: "2025-06-15"
 lastModified: "2025-06-15"
 description: "Panduan lengkap tanaman hidroponik untuk pemula. Pelajari sistem NFT, DFT, rakit apung, media tanam, nutrisi AB Mix, dan cara memulai kebun hidroponik di rumah dengan modal minim."
-thumbnail: "/images/og-default.jpg"
+thumbnail: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80"
 category: "panduan-dasar"
 tags: ["tanaman hidroponik", "cara menanam hidroponik", "sistem hidroponik", "hidroponik pemula", "kebun hidroponik"]
 author: "Kebo Sukses"

@@ -1,6 +1,6 @@
 import Link from 'next/link';
-import Image from 'next/image';
 import { Clock, Tag, Calendar } from 'lucide-react';
+import PostThumbnail from '@/components/blog/PostThumbnail';
 import { Post } from '@/lib/posts';
 import { siteConfig } from '@/lib/config';
 import { format } from 'date-fns';
@@ -27,10 +27,10 @@ export default function PostCard({ post, variant = 'default' }: PostCardProps) {
     return (
       <article className="flex gap-3 group">
         <div className="relative w-20 h-20 flex-shrink-0 rounded-lg overflow-hidden bg-gray-100">
-          <Image
+          <PostThumbnail
             src={post.thumbnail}
             alt={post.title}
-            fill
+            category={post.category}
             sizes="80px"
             className="object-cover group-hover:scale-105 transition-transform duration-300"
           />
@@ -49,10 +49,11 @@ export default function PostCard({ post, variant = 'default' }: PostCardProps) {
     return (
       <article className="group relative overflow-hidden rounded-2xl bg-white shadow-md hover:shadow-xl transition-shadow duration-300 flex flex-col md:flex-row">
         <div className="relative w-full md:w-1/2 aspect-video md:aspect-auto overflow-hidden bg-gray-100">
-          <Image
+          <PostThumbnail
             src={post.thumbnail}
             alt={post.title}
-            fill
+            category={post.category}
+            title={post.title}
             priority
             sizes="(max-width: 768px) 100vw, 50vw"
             className="object-cover group-hover:scale-105 transition-transform duration-500"
@@ -88,10 +89,11 @@ export default function PostCard({ post, variant = 'default' }: PostCardProps) {
   return (
     <article className="group bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300 border border-gray-100 flex flex-col">
       <Link href={post.href} className="block relative aspect-video overflow-hidden bg-gray-100">
-        <Image
+        <PostThumbnail
           src={post.thumbnail}
           alt={post.title}
-          fill
+          category={post.category}
+          title={post.title}
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
           className="object-cover group-hover:scale-105 transition-transform duration-300"
         />

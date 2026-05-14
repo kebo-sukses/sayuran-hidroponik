@@ -2,7 +2,6 @@
 // Contoh: /2025/06/panduan-lengkap-tanaman-hidroponik
 
 import { notFound } from 'next/navigation';
-import Image from 'next/image';
 import Link from 'next/link';
 import { MDXRemote } from 'next-mdx-remote/rsc';
 import { Calendar, Clock, Tag, RefreshCw } from 'lucide-react';
@@ -15,6 +14,7 @@ import { siteConfig } from '@/lib/config';
 import AuthorBio from '@/components/blog/AuthorBio';
 import Breadcrumb from '@/components/blog/Breadcrumb';
 import PostCard from '@/components/blog/PostCard';
+import PostThumbnail from '@/components/blog/PostThumbnail';
 import AdSlot from '@/components/ads/AdSlot';
 
 interface PageParams {
@@ -113,10 +113,11 @@ export default async function BlogPostPage({ params }: { params: Promise<PagePar
           <article className="flex-1 min-w-0 bg-white rounded-2xl shadow-sm overflow-hidden">
             {/* Thumbnail hero */}
             <div className="relative w-full aspect-video bg-gray-100">
-              <Image
+              <PostThumbnail
                 src={post.thumbnail}
                 alt={post.title}
-                fill
+                category={post.category}
+                title={post.title}
                 priority
                 sizes="(max-width: 768px) 100vw, 75vw"
                 className="object-cover"
