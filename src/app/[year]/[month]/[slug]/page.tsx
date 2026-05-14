@@ -1,6 +1,5 @@
-// Halaman artikel: /[year]/[month]/[slug].html
-// Contoh: /2025/06/panduan-lengkap-cara-menanam-hidroponik.html
-// → Match PERSIS dengan URL Blogger lama
+// Halaman artikel: /[year]/[month]/[slug]
+// Contoh: /2025/06/panduan-lengkap-tanaman-hidroponik
 
 import { notFound } from 'next/navigation';
 import Image from 'next/image';
@@ -21,7 +20,7 @@ import AdSlot from '@/components/ads/AdSlot';
 interface PageParams {
   year: string;
   month: string;
-  slug: string; // Akan berisi "nama-artikel.html"
+  slug: string;
 }
 
 // ─── Static Generation ──────────────────────────────────────────────────────
@@ -31,14 +30,13 @@ export async function generateStaticParams() {
   return slugs.map(({ year, month, slug }) => ({
     year,
     month,
-    slug: `${slug}.html`,
+    slug,
   }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<PageParams> }) {
   const { year, month, slug } = await params;
-  const cleanSlug = slug.replace(/\.html$/, '');
-  const post = await getPostBySlug(year, month, cleanSlug);
+  const post = await getPostBySlug(year, month, slug);
   if (!post) return {};
 
   return generateSEOMetadata({
@@ -58,12 +56,11 @@ export async function generateMetadata({ params }: { params: Promise<PageParams>
 
 export default async function BlogPostPage({ params }: { params: Promise<PageParams> }) {
   const { year, month, slug } = await params;
-  const cleanSlug = slug.replace(/\.html$/, '');
-  const post = await getPostBySlug(year, month, cleanSlug);
+  const post = await getPostBySlug(year, month, slug);
 
   if (!post) notFound();
 
-  const relatedPosts = await getRelatedPosts(cleanSlug, post.category);
+  const relatedPosts = await getRelatedPosts(slug, post.category);
   const categoryLabel =
     siteConfig.categories.find((c) => c.slug === post.category)?.label ?? post.category;
 

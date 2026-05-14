@@ -27,7 +27,7 @@ export interface Post extends PostFrontmatter {
   month: string;
   content: string;
   readingTime: string;
-  // URL yang dihasilkan: /YYYY/MM/slug.html (match Blogger)
+  // URL yang dihasilkan: /YYYY/MM/slug
   href: string;
 }
 
@@ -79,7 +79,7 @@ export async function getPostBySlug(
     month,
     content,
     readingTime: `${Math.ceil(stats.minutes)} menit baca`,
-    href: `/${year}/${month}/${slug}.html`,
+    href: `/${year}/${month}/${slug}`,
   };
 }
 

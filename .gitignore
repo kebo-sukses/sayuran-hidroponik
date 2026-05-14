@@ -29,13 +29,8 @@ Thumbs.db
 .env.test.local
 .env.production.local
 
-# Google Service Account credentials (JANGAN dicommit!)
-*.json
-!package.json
-!package-lock.json
-!tsconfig.json
-!.codacy/*.json
-
 # Misc
 *.csv
 
+
+sayur-*.json

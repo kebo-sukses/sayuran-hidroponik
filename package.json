@@ -6,10 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "indexnow": "node scripts/indexnow-submit.mjs",
-    "sitemap:ping": "node scripts/sitemap-ping.mjs",
-    "submit:all": "npm run indexnow && npm run sitemap:ping"
+    "lint": "next lint"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",
