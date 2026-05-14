@@ -4,8 +4,8 @@ export const siteConfig = {
   title: 'Budidaya Sayur Hidroponik – Panduan Lengkap Pemula',
   description:
     'Panduan lengkap hidroponik untuk pemula: cara menanam sayur hidroponik di rumah, sistem pipa & rakit apung, nutrisi, dan tips sukses bertani modern.',
-  url: 'https://www.sayur-hidroponik.my.id',
-  ogImage: 'https://www.sayur-hidroponik.my.id/og-default.jpg',
+  url: 'https://sayur-hidroponik.my.id',
+  ogImage: 'https://sayur-hidroponik.my.id/og-default.jpg',
   
   // Kode Google Analytics & AdSense
   gtag: 'G-V7RH4PLGD5',
