@@ -92,7 +92,7 @@ export default async function BlogPostPage({ params }: { params: Promise<PagePar
             href: post.href,
             tags: post.tags,
             readingTime: post.readingTime,
-          })),
+          })).replace(/<\/script>/gi, '<\\/script>'),
         }}
       />
       <script
@@ -102,7 +102,7 @@ export default async function BlogPostPage({ params }: { params: Promise<PagePar
             { name: 'Beranda', href: '/' },
             { name: categoryLabel, href: `/kategori/${post.category}` },
             { name: post.title, href: post.href },
-          ])),
+          ])).replace(/<\/script>/gi, '<\\/script>'),
         }}
       />
 
