@@ -6,11 +6,15 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "indexnow": "node scripts/indexnow-submit.mjs",
+    "sitemap:ping": "node scripts/sitemap-ping.mjs",
+    "submit:all": "npm run indexnow && npm run sitemap:ping"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",
     "date-fns": "^3.6.0",
+    "google-auth-library": "^10.6.2",
     "gray-matter": "^4.0.3",
     "lucide-react": "^0.400.0",
     "next": "^16.2.6",
@@ -24,6 +28,7 @@
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "autoprefixer": "^10.4.19",
+    "dotenv": "^17.4.2",
     "eslint": "^9.39.4",
     "eslint-config-next": "^16.2.6",
     "postcss": "^8.4.39",
