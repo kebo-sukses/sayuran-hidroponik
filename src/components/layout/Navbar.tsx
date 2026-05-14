@@ -1,5 +1,6 @@
 import Link from 'next/link';
-import { Menu, X, Leaf } from 'lucide-react';
+import Image from 'next/image';
+import { Menu } from 'lucide-react';
 import { siteConfig } from '@/lib/config';
 
 export default function Navbar() {
@@ -8,7 +9,14 @@ export default function Navbar() {
       <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 font-bold text-gray-900 hover:text-primary-700 transition-colors">
-          <Leaf className="w-6 h-6 text-primary-600" />
+          <Image
+            src="/images/logo.png"
+            alt={siteConfig.name}
+            width={36}
+            height={36}
+            className="object-contain"
+            priority
+          />
           <span className="text-lg leading-tight">
             Sayur<span className="text-primary-600">Hidroponik</span>
           </span>
