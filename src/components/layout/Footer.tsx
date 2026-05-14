@@ -71,6 +71,11 @@ export default function Footer() {
               </Link>
             </li>
             <li>
+              <Link href="/syarat-ketentuan" className="text-gray-400 hover:text-primary-400 transition-colors">
+                Syarat &amp; Ketentuan
+              </Link>
+            </li>
+            <li>
               <a
                 href="/ads.txt"
                 className="text-gray-400 hover:text-primary-400 transition-colors"
