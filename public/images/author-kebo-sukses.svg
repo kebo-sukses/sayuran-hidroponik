@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="100" fill="#16a34a"/>
+  <circle cx="100" cy="78" r="32" fill="#dcfce7"/>
+  <path d="M 38 168 Q 38 118 100 118 Q 162 118 162 168 Q 162 200 100 200 Q 38 200 38 168 Z" fill="#dcfce7"/>
+  <text x="100" y="90" font-family="system-ui, sans-serif" font-size="36" font-weight="700" fill="#16a34a" text-anchor="middle" dominant-baseline="central">KS</text>
+</svg>

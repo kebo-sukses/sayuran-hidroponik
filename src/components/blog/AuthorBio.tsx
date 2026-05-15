@@ -27,6 +27,7 @@ export default function AuthorBio({
             src={siteConfig.author.image}
             alt={`Foto ${authorName}`}
             fill
+            unoptimized
             className="rounded-full object-cover ring-2 ring-primary-300"
           />
         </div>

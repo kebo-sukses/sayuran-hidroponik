@@ -16,7 +16,7 @@ export const siteConfig = {
   author: {
     name: 'Kebo Sukses',
     bio: 'Praktisi hidroponik dengan pengalaman 5+ tahun. Telah membantu ribuan pemula memulai kebun hidroponik di rumah.',
-    image: '/images/author-kebo-sukses.jpg',
+    image: '/images/author-kebo-sukses.svg',
     social: {
       facebook: 'https://facebook.com/kebosukses',
     },
