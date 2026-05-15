@@ -4,6 +4,7 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { MDXRemote } from 'next-mdx-remote/rsc';
+import remarkGfm from 'remark-gfm';
 import { Calendar, Clock, Tag, RefreshCw } from 'lucide-react';
 import { format } from 'date-fns';
 import { id as idLocale } from 'date-fns/locale';
@@ -166,7 +167,10 @@ export default async function BlogPostPage({ params }: { params: Promise<PagePar
 
               {/* Konten MDX */}
               <div className="prose-article">
-                <MDXRemote source={post.content} />
+                <MDXRemote
+                  source={post.content}
+                  options={{ mdxOptions: { remarkPlugins: [remarkGfm] } }}
+                />
               </div>
 
               {/* AdSense – Mid setelah konten */}
