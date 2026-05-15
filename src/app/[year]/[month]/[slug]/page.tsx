@@ -79,7 +79,8 @@ export default async function BlogPostPage({ params }: { params: Promise<PagePar
 
   return (
     <>
-      {/* JSON-LD Schema */}
+      {/* JSON-LD Schema – safe: content from internal seo.ts, XSS-escaped with replace(/<\/script>/gi) */}
+      {/* eslint-disable-next-line react/no-danger */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -96,6 +97,7 @@ export default async function BlogPostPage({ params }: { params: Promise<PagePar
           })).replace(/<\/script>/gi, '<\\/script>'),
         }}
       />
+      {/* eslint-disable-next-line react/no-danger */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
