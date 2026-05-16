@@ -1,5 +1,5 @@
 # 🗺️ Roadmap & Content Plan — Sayur Hidroponik
-> Last updated: 15 Mei 2026  
+> Last updated: 16 Mei 2026  
 > Domain: https://sayur-hidroponik.my.id  
 > Sumber keyword: Google Keyword Planner (Apr 2025 – Mar 2026)
 
@@ -118,14 +118,14 @@ Keyword dengan volume **5.000/bulan**, kompetisi Rendah–Menengah. Ini adalah a
 Keyword 500/bulan tapi **sangat strategis** — artikel-artikel ini menjawab pertanyaan yang ditanyakan semua pemula hidroponik.
 
 ### Minggu 1–2 Juli 2026
-- [ ] **N1** — `cara membuat nutrisi ab mix` (500/bln, Rendah) + `ab mix` (5.000/bln, Tinggi)
+- [x] **N1** — `cara membuat nutrisi ab mix` (500/bln, Rendah) + `ab mix` (5.000/bln, Tinggi)
   - Judul: **Cara Membuat Nutrisi AB Mix Sendiri: Resep, Takaran, dan Cara Mencampur**
   - Slug: `2026-07-cara-membuat-nutrisi-ab-mix`
   - Kategori: `panduan-dasar`
   - Secondary keyword: `pupuk hidroponik`, `nutrisi hidroponik`, `ab mix hidroponik`
   - Catatan: ⭐ AB Mix = 5.000 vol/bln Tinggi. Artikel ini menyerang dari angle low-competition "cara buat sendiri".
 
-- [ ] **A1** — `perlengkapan hidroponik` (500/bln, Tinggi) + `alat2 hidroponik` (500/bln, Tinggi)
+- [x] **A1** — `perlengkapan hidroponik` (500/bln, Tinggi) + `alat2 hidroponik` (500/bln, Tinggi)
   - Judul: **Alat dan Perlengkapan Hidroponik Pemula: Daftar Lengkap + Estimasi Harga**
   - Slug: `2026-07-alat-perlengkapan-hidroponik`
   - Kategori: `panduan-dasar`
@@ -133,14 +133,14 @@ Keyword 500/bulan tapi **sangat strategis** — artikel-artikel ini menjawab per
   - Catatan: Artikel tipe "listicle" — cocok untuk AdSense (banyak scroll, banyak tayangan).
 
 ### Minggu 3–4 Juli 2026
-- [ ] **T1** — `cara mengatur ph dan ec` (turunan dari `pupuk hidroponik` 500/bln)
+- [x] **T1** — `cara mengatur ph dan ec` (turunan dari `pupuk hidroponik` 500/bln)
   - Judul: **Cara Mengukur dan Mengatur EC dan pH Nutrisi Hidroponik dengan Benar**
   - Slug: `2026-07-cara-mengukur-ec-ph-nutrisi-hidroponik`
   - Kategori: `panduan-dasar`
   - Secondary keyword: `nutrisi tanaman hidroponik`, `cara hidroponik`
   - Catatan: Artikel teknis — E-E-A-T tinggi, sangat dicari oleh yang sudah mulai.
 
-- [ ] **S3** — `selada air hidroponik` (500/bln, **+900% pertumbuhan YoY** 🔥)
+- [x] **S3** — `selada air hidroponik` (500/bln, **+900% pertumbuhan YoY** 🔥)
   - Judul: **Cara Menanam Selada Air Hidroponik: Tren Sayuran dengan Permintaan Meroket**
   - Slug: `2026-07-cara-menanam-selada-air-hidroponik`
   - Kategori: `sayuran-hidroponik`
