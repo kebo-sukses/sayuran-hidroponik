@@ -65,10 +65,10 @@ Perbaikan teknis ini tidak membutuhkan artikel baru, tapi dampaknya langsung ke 
 
 ### 1.3 HowTo Schema — GEO (Generative Engine Optimization)
 > HowTo Schema membuat Google menampilkan langkah-langkah secara visual di SERP dan mengutip sebagai prosedur resmi di AI answers.
-- [ ] Tambah HowTo Schema support di `seo.ts`
-- [ ] Implementasi HowTo di artikel #2 (Kebun) — sudah ada struktur langkah
-- [ ] Implementasi HowTo di artikel #3, #4, #5, #6 (semua artikel "cara menanam")
-- [ ] Implementasi HowTo di artikel #8 (Tomat)
+- [x] Tambah HowTo Schema support di `seo.ts`
+- [x] Implementasi HowTo di artikel #2 (Kebun) — sudah ada struktur langkah
+- [x] Implementasi HowTo di artikel #3, #4, #5, #6 (semua artikel "cara menanam")
+- [x] Implementasi HowTo di artikel #8 (Tomat)
 
 ### 1.4 Optimasi Halaman Tentang (E-E-A-T)
 - [ ] Perkuat halaman `/tentang` dengan riwayat lengkap, pengalaman, dan kontak
