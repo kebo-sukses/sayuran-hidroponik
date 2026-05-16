@@ -81,14 +81,14 @@ Perbaikan teknis ini tidak membutuhkan artikel baru, tapi dampaknya langsung ke 
 Keyword dengan volume **5.000/bulan**, kompetisi Rendah–Menengah. Ini adalah artikel yang paling cepat mendapat traffic organik.
 
 ### Minggu 1–2 Juni 2026
-- [ ] **C1** — `cara menanam cabe` (5.000/bln, Rendah)
+- [x] **C1** — `cara menanam cabe` (5.000/bln, Rendah)
   - Judul: **Cara Menanam Cabe Hidroponik: Panduan Lengkap dari Semai sampai Panen**
   - Slug: `2026-06-cara-menanam-cabe-hidroponik`
   - Kategori: `sayuran-hidroponik`
   - Secondary keyword: `cabe hidroponik`, `tanam cabe hidroponik`, `tanaman cabe hidroponik sederhana`
   - Catatan: Termasuk varietas keriting, rawit, paprika. Sistem drip + cocopeat.
 
-- [ ] **M1** — `media tanam hidroponik` (5.000/bln, Tinggi)
+- [x] **M1** — `media tanam hidroponik` (5.000/bln, Tinggi)
   - Judul: **Media Tanam Hidroponik: Rockwool, Cocopeat, Perlite, dan Hydroton**
   - Slug: `2026-06-media-tanam-hidroponik`
   - Kategori: `panduan-dasar`
@@ -96,14 +96,14 @@ Keyword dengan volume **5.000/bulan**, kompetisi Rendah–Menengah. Ini adalah a
   - Catatan: Artikel definitive — perbandingan lengkap semua media, kapan pakai yang mana.
 
 ### Minggu 3–4 Juni 2026
-- [ ] **P3** — `contoh tanaman hidroponik` (5.000/bln, Rendah)
+- [x] **P3** — `contoh tanaman hidroponik` (5.000/bln, Rendah)
   - Judul: **15 Contoh Tanaman Hidroponik yang Paling Cocok untuk Pemula**
   - Slug: `2026-06-contoh-tanaman-hidroponik`
   - Kategori: `panduan-dasar`
   - Secondary keyword: `tanaman yang cocok untuk hidroponik`, `sayuran yang dapat ditanam secara hidroponik`
   - Catatan: Artikel listing — menjadi artikel penerima internal link terbanyak.
 
-- [ ] **R4** — `hidroponik sederhana` (5.000/bln, Tinggi) + `hidroponik botol` (500/bln, Tinggi)
+- [x] **R4** — `hidroponik sederhana` (5.000/bln, Tinggi) + `hidroponik botol` (500/bln, Tinggi)
   - Judul: **Cara Membuat Hidroponik Sederhana dari Botol Bekas Modal di Bawah 50 Ribu**
   - Slug: `2026-06-hidroponik-sederhana-botol-bekas`
   - Kategori: `cara-membuat`
