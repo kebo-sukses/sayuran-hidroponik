@@ -1,13 +1,22 @@
 ---
 title: "Cara Menanam Kangkung Hidroponik: Cepat Tumbuh, Cepat Panen"
 date: "2025-06-25"
-lastModified: "2025-06-25"
+lastModified: "2026-05-15"
 description: "Cara menanam kangkung hidroponik dari biji sampai panen 21 hari. Panduan lengkap nutrisi, EC, pH, sistem NFT dan DWC, plus cara panen berkali-kali dari satu tanaman."
 thumbnail: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=1200&q=80"
 category: "sayuran-hidroponik"
 tags: ["kangkung hidroponik", "cara menanam kangkung", "tanam kangkung", "kangkung NFT", "budidaya kangkung hidroponik"]
 author: "Kebo Sukses"
 factCheckedBy: "Tim Redaksi Sayur Hidroponik"
+faqs:
+  - q: "Berapa lama kangkung hidroponik siap panen pertama?"
+    a: "Kangkung dari biji siap panen pertama dalam 18-25 hari setelah pindah tanam. Jika menggunakan stek batang, bisa lebih cepat 5-7 hari karena tidak perlu fase perkecambahan."
+  - q: "Bisakah kangkung hidroponik dipanen berkali-kali?"
+    a: "Ya, kangkung bisa dipanen dengan metode potong batang (bukan cabut). Sisakan 2-3 ruas batang dari pangkal, dan tunas baru akan tumbuh dalam 7-10 hari. Satu tanaman yang sehat bisa dipanen 4-6 kali sebelum produksinya menurun."
+  - q: "Sistem hidroponik apa yang paling cocok untuk kangkung?"
+    a: "DWC (Deep Water Culture) adalah sistem yang paling cocok karena kangkung toleran terhadap akar yang terendam dan tumbuh subur dengan aerasi yang baik. NFT juga sangat efektif dan menghasilkan kangkung yang lebih tegak."
+  - q: "Berapa EC dan pH ideal untuk kangkung hidroponik?"
+    a: "EC ideal untuk kangkung adalah 1,5-2,5 mS/cm dengan toleransi hingga 3,0 mS/cm. pH dijaga pada 5,5-6,5. Kangkung lebih toleran terhadap variasi EC dibanding selada, sehingga cocok untuk pemula."
 ---
 
 Kalau selada adalah "mahasiswa" dunia hidroponik — butuh perhatian ekstra soal pH dan suhu — maka kangkung adalah **pekerja keras yang tidak rewel**. Tumbuh cepat, tahan kondisi beragam, dan bisa dipanen berkali-kali dari satu tanaman.
@@ -295,3 +304,12 @@ Kangkung hidroponik adalah bukti bahwa pertanian modern tidak harus mahal atau r
 Lebih dari sekadar kebutuhan dapur, kangkung hidroponik mengajarkan satu hal penting: **bahwa pertumbuhan itu bisa dikelola, diukur, dan dioptimalkan** — baik untuk tanaman maupun untuk diri kita sendiri.
 
 Mulai dari satu netpot. Amati, catat, pelajari. Sisanya akan mengikuti.
+
+---
+
+## Artikel Terkait
+
+- [Panduan Lengkap Tanaman Hidroponik: Dari Nol Sampai Panen](/2025/06/panduan-lengkap-tanaman-hidroponik)
+- [Jenis-Jenis Sistem Hidroponik: NFT, DWC, dan Cara Memilih](/2025/07/jenis-sistem-hidroponik)
+- [Cara Menanam Selada Hidroponik: Dari Semai Sampai Panen 30 Hari](/2025/06/cara-menanam-selada-hidroponik)
+- [Cara Membuat Kebun Hidroponik di Rumah dengan Modal Minim](/2025/06/cara-membuat-kebun-hidroponik-di-rumah)

@@ -1,13 +1,24 @@
 ---
 title: "Jenis-Jenis Sistem Hidroponik: NFT, DWC, Wick, dan Mana yang Tepat untuk Kamu"
 date: "2025-07-02"
-lastModified: "2025-07-02"
+lastModified: "2026-05-15"
 description: "Panduan lengkap jenis-jenis sistem hidroponik: NFT, DWC, Wick, Drip, Aeroponic, dan Rakit Apung. Perbandingan biaya, kompleksitas, dan rekomendasi sistem terbaik untuk pemula hingga skala komersial."
 thumbnail: "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?w=1200&q=80"
 category: "sistem-hidroponik"
 tags: ["sistem hidroponik", "NFT hidroponik", "DWC hidroponik", "rakit apung", "jenis hidroponik"]
 author: "Kebo Sukses"
 factCheckedBy: "Tim Redaksi Sayur Hidroponik"
+faqs:
+  - q: "Sistem hidroponik apa yang paling mudah untuk pemula?"
+    a: "DWC (Deep Water Culture) atau rakit apung adalah sistem paling mudah untuk pemula. Hanya membutuhkan wadah kedap cahaya, aerator aquarium, netpot, dan larutan nutrisi. Tidak ada pompa air, tidak ada kemiringan presisi yang perlu diukur."
+  - q: "Apa perbedaan utama sistem NFT dan DWC?"
+    a: "NFT mengalirkan larutan nutrisi tipis di akar secara terus-menerus menggunakan pompa dan pipa, sehingga akar terekspos oksigen lebih banyak. DWC menenggelamkan akar langsung di larutan yang diaerasi. NFT lebih efisien air tapi lebih sensitif terhadap mati listrik."
+  - q: "Berapa biaya membuat sistem hidroponik NFT?"
+    a: "Sistem NFT sederhana untuk 2-3 pipa (20-30 tanaman) membutuhkan modal sekitar Rp 400.000-700.000, mencakup pipa PVC 3 inci, pompa air, bak penampung, netpot, dan nutrisi AB Mix."
+  - q: "Sistem hidroponik mana yang paling hemat listrik?"
+    a: "Wick system tidak membutuhkan listrik sama sekali. DWC hanya butuh aerator kecil 2-5 watt. NFT membutuhkan pompa air yang terus menyala 10-30 watt. Aeroponik adalah yang paling boros listrik."
+  - q: "Apakah bisa menggabungkan beberapa sistem hidroponik?"
+    a: "Bisa, dan ini adalah strategi umum petani berpengalaman. Contoh: DWC untuk sayuran daun (selada, kangkung, bayam) dan sistem drip untuk tanaman buah (tomat, cabai). Dua sistem berbeda bisa menghasilkan dua kategori produk dari satu kebun."
 ---
 
 Ketika saya pertama kali belajar hidroponik, hal yang paling membingungkan bukan soal nutrisi atau pH — tapi soal sistem. Ada NFT, DWC, rakit apung, wick, drip, aeroponic, dan beberapa istilah lain yang seolah-olah sengaja dibuat rumit.
@@ -333,3 +344,12 @@ Setelah semua penjelasan, ini rekomendasi yang bisa langsung diterapkan:
 **Ingin skala komersial?** NFT untuk sayuran daun, drip untuk buah-buahan, dikombinasikan dengan manajemen siklus yang terencana.
 
 Sistem terbaik adalah sistem yang kamu pahami sepenuhnya dan kamu rawat dengan konsisten. Mulai dari yang sederhana, pelajari cara kerjanya, dan kembangkan sesuai kemampuan.
+
+---
+
+## Artikel Terkait
+
+- [Panduan Lengkap Tanaman Hidroponik: Dari Nol Sampai Panen](/2025/06/panduan-lengkap-tanaman-hidroponik)
+- [Cara Membuat Kebun Hidroponik di Rumah dengan Modal Minim](/2025/06/cara-membuat-kebun-hidroponik-di-rumah)
+- [Cara Menanam Selada Hidroponik: Dari Semai Sampai Panen 30 Hari](/2025/06/cara-menanam-selada-hidroponik)
+- [Budidaya Tomat Hidroponik: Panduan dari Semai Sampai Panen Berulang](/2025/07/budidaya-tomat-hidroponik)

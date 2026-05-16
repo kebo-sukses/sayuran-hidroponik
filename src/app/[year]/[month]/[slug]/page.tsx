@@ -10,7 +10,7 @@ import { format } from 'date-fns';
 import { id as idLocale } from 'date-fns/locale';
 
 import { getAllPostSlugs, getPostBySlug, getRelatedPosts } from '@/lib/posts';
-import { generateSEOMetadata, blogPostingSchema, breadcrumbSchema } from '@/lib/seo';
+import { generateSEOMetadata, blogPostingSchema, breadcrumbSchema, faqSchema } from '@/lib/seo';
 import { siteConfig } from '@/lib/config';
 import AuthorBio from '@/components/blog/AuthorBio';
 import Breadcrumb from '@/components/blog/Breadcrumb';
@@ -108,6 +108,18 @@ export default async function BlogPostPage({ params }: { params: Promise<PagePar
           ])).replace(/<\/script>/gi, '<\\/script>'),
         }}
       />
+      {/* FAQ JSON-LD – safe: source from seo.ts faqSchema(), XSS-escaped with replace(/<\/script>/gi) */}
+      {post.faqs && post.faqs.length > 0 && (
+        <>
+          {/* eslint-disable-next-line react/no-danger */}
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify(faqSchema(post.faqs)).replace(/<\/script>/gi, '<\\/script>'),
+            }}
+          />
+        </>
+      )}
 
       <div className="max-w-6xl mx-auto px-4 py-8">
         {/* Layout: artikel (kiri) + sidebar (kanan) */}
@@ -186,6 +198,33 @@ export default async function BlogPostPage({ params }: { params: Promise<PagePar
                     <span key={tag} className="tag-pill">{tag}</span>
                   ))}
                 </div>
+              )}
+
+              {/* FAQ Section – AEO + visible accordion */}
+              {post.faqs && post.faqs.length > 0 && (
+                <section className="mt-10 border-t border-gray-200 pt-8">
+                  <h2 className="text-xl font-bold text-gray-900 mb-6">
+                    Pertanyaan yang Sering Ditanya
+                  </h2>
+                  <div className="space-y-3">
+                    {post.faqs.map((faq, i) => (
+                      <details
+                        key={i}
+                        className="group bg-primary-50 rounded-xl overflow-hidden"
+                      >
+                        <summary className="flex justify-between items-start gap-3 px-5 py-4 font-semibold text-gray-900 cursor-pointer list-none">
+                          <span>{faq.q}</span>
+                          <span className="text-primary-500 text-xl flex-shrink-0 mt-0.5 transition-transform duration-200 group-open:rotate-45">
+                            +
+                          </span>
+                        </summary>
+                        <p className="px-5 pb-4 text-gray-700 text-sm leading-relaxed">
+                          {faq.a}
+                        </p>
+                      </details>
+                    ))}
+                  </div>
+                </section>
               )}
 
               {/* Author Bio – E-E-A-T */}

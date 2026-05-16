@@ -1,13 +1,22 @@
 ---
 title: "Cara Menanam Bayam Hidroponik: Panen Lebih Cepat, Lebih Bersih"
 date: "2025-06-28"
-lastModified: "2025-06-28"
+lastModified: "2026-05-15"
 description: "Cara menanam bayam hidroponik dari nol sampai panen 20 hari. Panduan lengkap varietas terbaik, dosis nutrisi AB Mix, EC dan pH ideal, serta tips agar daun tebal dan tidak pahit."
 thumbnail: "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=1200&q=80"
 category: "sayuran-hidroponik"
 tags: ["bayam hidroponik", "cara menanam bayam", "bayam organik hidroponik", "budidaya bayam", "bayam NFT"]
 author: "Kebo Sukses"
 factCheckedBy: "Tim Redaksi Sayur Hidroponik"
+faqs:
+  - q: "Berapa lama bayam hidroponik siap panen?"
+    a: "Bayam hidroponik bisa dipanen dalam 20-25 hari setelah pindah tanam. Panen sebaiknya dilakukan sebelum tanaman berbunga (bolting) karena setelah berbunga daun menjadi pahit dan teksturnya kasar."
+  - q: "Sistem hidroponik apa yang terbaik untuk bayam?"
+    a: "DWC (Deep Water Culture) adalah sistem yang paling direkomendasikan untuk bayam karena bayam menyukai ketersediaan air dan nutrisi yang konsisten. NFT juga bisa digunakan untuk skala yang lebih besar."
+  - q: "Kenapa bayam hidroponik cepat bolting atau berbunga?"
+    a: "Bolting dipicu oleh suhu udara terlalu panas (di atas 32 derajat Celsius), paparan sinar matahari langsung terlalu lama, atau hari yang terlalu panjang. Gunakan naungan 50-70% untuk memperlambat bolting di iklim tropis."
+  - q: "Berapa EC dan pH ideal untuk bayam hidroponik?"
+    a: "EC ideal untuk bayam adalah 1,8-2,3 mS/cm, dan pH dijaga pada 6,0-7,0. Bayam relatif toleran terhadap variasi EC, tapi sensitif terhadap kekurangan zat besi (Fe) yang menyebabkan klorosis pada daun muda."
 ---
 
 Bayam adalah sayuran yang paling sering dicari ibu-ibu di pasar — dan ironisnya, juga yang paling cepat layu setelah dibeli. Beli pagi, sore sudah kuning. Beli Jumat, Sabtu sudah berlendir.
@@ -274,3 +283,12 @@ Tidak perlu alat mahal, tidak perlu lahan, dan tidak perlu pengalaman bertahun-t
 Setelah berhasil dengan bayam, langkah selanjutnya sangat terbuka: coba pakchoy, sawi, atau bahkan bayam Jepang (horenso) yang nilai jualnya lebih tinggi.
 
 Mulailah hari ini. Panen pertama kamu hanya 20 hari lagi.
+
+---
+
+## Artikel Terkait
+
+- [Panduan Lengkap Tanaman Hidroponik: Dari Nol Sampai Panen](/2025/06/panduan-lengkap-tanaman-hidroponik)
+- [Jenis-Jenis Sistem Hidroponik: NFT, DWC, dan Cara Memilih](/2025/07/jenis-sistem-hidroponik)
+- [Cara Menanam Selada Hidroponik: Dari Semai Sampai Panen 30 Hari](/2025/06/cara-menanam-selada-hidroponik)
+- [Cara Menanam Pakchoy Hidroponik: Si Sayuran Serbaguna yang Cepat Panen](/2025/06/cara-menanam-pakchoy-hidroponik)

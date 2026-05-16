@@ -1,13 +1,24 @@
 ﻿---
 title: "Cara Menanam Selada Hidroponik: Dari Semai Sampai Panen 30 Hari"
 date: "2025-06-22"
-lastModified: "2025-06-22"
+lastModified: "2026-05-15"
 description: "Cara menanam selada hidroponik untuk pemula. Panduan lengkap: varietas terbaik, penyemaian, nutrisi AB Mix, EC dan pH ideal, troubleshooting daun kuning, hingga panen di hari ke-30."
 thumbnail: "https://images.unsplash.com/photo-1601593346740-925612772716?w=1200&q=80"
 category: "sayuran-hidroponik"
 tags: ["selada hidroponik", "cara menanam selada", "selada NFT", "budidaya selada", "selada hidroponik pemula"]
 author: "Kebo Sukses"
 factCheckedBy: "Tim Redaksi Sayur Hidroponik"
+faqs:
+  - q: "Berapa lama selada hidroponik siap panen?"
+    a: "Selada hidroponik siap panen dalam 25-35 hari setelah pindah tanam, tergantung varietas. Varietas keriting seperti Lollo Rossa biasanya lebih cepat dibanding Butterhead yang membutuhkan 35-40 hari."
+  - q: "Berapa EC dan pH yang ideal untuk selada hidroponik?"
+    a: "EC ideal untuk selada adalah 0,8-1,6 mS/cm. pH dijaga pada 5,5-6,5, dengan 5,8-6,2 sebagai zona optimal. EC atau pH yang tidak tepat adalah penyebab utama daun kuning pada selada hidroponik."
+  - q: "Sistem hidroponik apa yang terbaik untuk selada?"
+    a: "Sistem NFT (Nutrient Film Technique) adalah yang terbaik untuk selada karena akar terekspos oksigen secara optimal. DWC juga sangat baik untuk skala kecil. Keduanya menghasilkan selada berkualitas tinggi."
+  - q: "Kenapa daun selada hidroponik menguning?"
+    a: "Penyebab paling umum adalah pH larutan yang salah (di luar 5,5-6,5), EC terlalu rendah, atau larutan nutrisi yang sudah terlalu tua. Cek pH dan EC terlebih dahulu, lalu ganti larutan jika sudah lebih dari 2 minggu."
+  - q: "Apa itu tip burn pada selada dan cara mencegahnya?"
+    a: "Tip burn adalah kematian jaringan di tepi daun muda akibat kekurangan kalsium di titik tumbuh. Pencegahannya: tingkatkan sirkulasi udara dengan kipas kecil, jaga suhu di bawah 30 derajat Celsius, dan pastikan kalsium cukup dalam nutrisi bagian A."
 ---
 
 Dari semua tanaman yang saya coba di hidroponik, selada adalah yang paling **memuaskan untuk pemula**. Bukan karena mudah â€” tapi karena hasilnya cepat terlihat, variasi varietasnya menggiurkan, dan rasanya jauh lebih segar dibanding yang dijual di supermarket.
@@ -294,3 +305,11 @@ Selada hidroponik adalah pintu terbaik masuk ke dunia pertanian modern. Dalam 30
 Yang terpenting: **mulai dari yang kecil, konsisten dalam monitoring, dan catat setiap siklus**. Setiap gagal pun adalah data berharga untuk siklus berikutnya.
 
 Selada pertama yang kamu panen sendiri â€” percayalah â€” rasanya berbeda. Bukan karena beda varietasnya, tapi karena kamu tahu persis nutrisi apa yang masuk ke dalamnya.
+---
+
+## Artikel Terkait
+
+- [Panduan Lengkap Tanaman Hidroponik: Dari Nol Sampai Panen](/2025/06/panduan-lengkap-tanaman-hidroponik)
+- [Jenis-Jenis Sistem Hidroponik: NFT, DWC, dan Cara Memilih](/2025/07/jenis-sistem-hidroponik)
+- [Cara Membuat Kebun Hidroponik di Rumah dengan Modal Minim](/2025/06/cara-membuat-kebun-hidroponik-di-rumah)
+- [Cara Menanam Kangkung Hidroponik: Cepat Tumbuh, Cepat Panen](/2025/06/cara-menanam-kangkung-hidroponik)

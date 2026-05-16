@@ -1,13 +1,24 @@
 ---
 title: "Cara Membuat Kebun Hidroponik di Rumah: Panduan Praktis dari Nol"
 date: "2025-06-20"
-lastModified: "2025-06-20"
+lastModified: "2026-05-15"
 description: "Cara membuat kebun hidroponik di rumah dengan modal mulai Rp 150.000. Panduan lengkap dari pemilihan sistem, peralatan, nutrisi, hingga panen pertama untuk pemula."
 thumbnail: "https://images.unsplash.com/photo-1585320806297-9794b3e4aaae?w=1200&q=80"
 category: "cara-membuat"
 tags: ["kebun hidroponik", "cara membuat hidroponik", "hidroponik di rumah", "hidroponik pemula", "berkebun di rumah"]
 author: "Kebo Sukses"
 factCheckedBy: "Tim Redaksi Sayur Hidroponik"
+faqs:
+  - q: "Berapa modal minimal untuk membuat kebun hidroponik di rumah?"
+    a: "Untuk sistem DWC (Deep Water Culture) dengan 6-12 tanaman, modal awalnya sekitar Rp 130.000-150.000 menggunakan styrofoam box bekas, netpot, aerator, nutrisi AB Mix, dan rockwool. Sistem NFT yang lebih serius membutuhkan Rp 400.000-600.000."
+  - q: "Sistem hidroponik apa yang paling mudah untuk pemula?"
+    a: "DWC (Deep Water Culture) atau rakit apung adalah sistem paling mudah untuk pemula. Tidak butuh pompa atau kemiringan presisi, hanya membutuhkan aerator aquarium sederhana, dan toleran terhadap kesalahan nutrisi pemula."
+  - q: "Apakah kebun hidroponik bisa dibuat di dalam ruangan tanpa sinar matahari?"
+    a: "Bisa. Sayuran daun seperti selada, kangkung, dan bayam bisa tumbuh di dalam ruangan dengan grow light LED full spectrum 40-60 watt yang dinyalakan 12-16 jam per hari."
+  - q: "Berapa lama sampai bisa panen pertama dari kebun hidroponik?"
+    a: "Kangkung bisa dipanen dalam 18-21 hari setelah pindah tanam. Selada membutuhkan 25-30 hari. Bayam dan pakchoy sekitar 20-25 hari. Semua dihitung dari saat bibit dipindahkan ke sistem, bukan dari semai."
+  - q: "Bisakah kebun hidroponik ditinggal beberapa hari?"
+    a: "Dengan sistem NFT bertimerdan bak nutrisi yang cukup besar (40+ liter), bisa ditinggal 2-3 hari. Lebih dari itu sebaiknya ada yang merawat atau gunakan sistem otomasi dengan timer dan sensor level air."
 ---
 
 Dua tahun lalu, saya mencoba menanam selada di pot tanah di teras. Hasilnya? Daun kuning, akar busuk, dan ulat muncul dari mana-mana. Frustrasi.
@@ -355,3 +366,12 @@ Setelah berhasil dengan DWC sederhana, kamu bisa upgrade ke NFT, ekspansi ke tan
 Perjalanan seribu sayuran dimulai dari satu netpot.
 
 Kalau kamu sudah mulai atau punya pertanyaan spesifik, tinggalkan di kolom komentar — saya senang berbagi pengalaman lebih lanjut.
+
+---
+
+## Artikel Terkait
+
+- [Panduan Lengkap Tanaman Hidroponik: Dari Nol Sampai Panen](/2025/06/panduan-lengkap-tanaman-hidroponik)
+- [Jenis-Jenis Sistem Hidroponik: NFT, DWC, dan Cara Memilih](/2025/07/jenis-sistem-hidroponik)
+- [Cara Menanam Selada Hidroponik: Dari Semai Sampai Panen 30 Hari](/2025/06/cara-menanam-selada-hidroponik)
+- [Cara Menanam Kangkung Hidroponik: Cepat Tumbuh, Cepat Panen](/2025/06/cara-menanam-kangkung-hidroponik)

@@ -1,13 +1,22 @@
 ---
 title: "Budidaya Tomat Hidroponik: Panduan dari Semai Sampai Panen Berulang"
 date: "2025-07-05"
-lastModified: "2025-07-05"
+lastModified: "2026-05-15"
 description: "Panduan lengkap budidaya tomat hidroponik: varietas terbaik, sistem drip vs DWC, EC dan pH ideal, cara pangkas tanaman, mengatasi penyakit busuk akar, dan tips panen berlipat ganda."
 thumbnail: "https://images.unsplash.com/photo-1592841200221-a6898f307baa?w=1200&q=80"
 category: "budidaya"
 tags: ["tomat hidroponik", "budidaya tomat", "tomat NFT", "cara menanam tomat", "tomat drip system"]
 author: "Kebo Sukses"
 factCheckedBy: "Tim Redaksi Sayur Hidroponik"
+faqs:
+  - q: "Berapa lama tomat hidroponik mulai berbuah?"
+    a: "Tomat hidroponik mulai berbunga sekitar 30-45 hari setelah pindah tanam, dan buah mulai memerah untuk dipanen pada 70-90 hari. Varietas cherry tomato umumnya lebih cepat berbuah dibanding tomat besar."
+  - q: "Sistem hidroponik apa yang terbaik untuk tomat?"
+    a: "Sistem drip dengan media cocopeat atau rockwool slab adalah yang terbaik untuk tomat. Sistem ini memberikan kontrol yang baik atas pemberian nutrisi dan aerasi akar. NFT dan DWC bisa digunakan tapi kurang ideal untuk tanaman berbuah besar."
+  - q: "Kenapa buah tomat hidroponik busuk di bagian bawah (Blossom End Rot)?"
+    a: "Blossom End Rot (BER) disebabkan kekurangan kalsium di sel buah, bukan selalu karena kurangnya kalsium di larutan. Penyebab sebenarnya adalah penyerapan kalsium yang terganggu akibat EC terlalu tinggi, pH tidak stabil, atau irigasi yang tidak konsisten."
+  - q: "Berapa EC dan pH ideal untuk tomat hidroponik?"
+    a: "EC ideal untuk tomat bervariasi: 2,0-2,5 mS/cm saat vegetatif, dan 3,0-4,0 mS/cm saat pembungaan dan pembuahan. pH dijaga pada 5,5-6,5, dengan 6,0-6,2 sebagai zona ideal untuk penyerapan nutrisi optimal."
 ---
 
 Tomat adalah impian banyak petani hidroponik — dan sekaligus tantangan terbesar yang sering membuat mereka frustrasi.
@@ -314,3 +323,11 @@ Tomat hidroponik bukan proyek yang cocok untuk pemula mutlak yang baru pertama m
 Tantangannya nyata: siklus yang panjang, kebutuhan nutrisi yang kompleks, dan teknik pemangkasan yang harus dipelajari. Tapi ketika buah pertama mulai memerah di rangkaian yang kamu rawat sendiri, kepuasannya berbeda dari panen sayuran daun manapun.
 
 Mulai dari cherry tomato, satu tanaman, sistem drip sederhana. Pelajari responnya. Catat semua. Dan ketika berhasil — yang pasti akan terjadi jika kamu konsisten — rasakan sendiri betapa berbedanya tomat yang kamu tanam sendiri dari tomat yang kamu beli di pasar.
+
+---
+
+## Artikel Terkait
+
+- [Panduan Lengkap Tanaman Hidroponik: Dari Nol Sampai Panen](/2025/06/panduan-lengkap-tanaman-hidroponik)
+- [Jenis-Jenis Sistem Hidroponik: NFT, DWC, dan Cara Memilih](/2025/07/jenis-sistem-hidroponik)
+- [Cara Membuat Kebun Hidroponik di Rumah dengan Modal Minim](/2025/06/cara-membuat-kebun-hidroponik-di-rumah)

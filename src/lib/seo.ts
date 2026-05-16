@@ -142,6 +142,22 @@ export function breadcrumbSchema(
   };
 }
 
+/** Schema FAQPage – untuk AEO (Answer Engine Optimization) dan snippet FAQ Google */
+export function faqSchema(faqs: { q: string; a: string }[]) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map(({ q, a }) => ({
+      '@type': 'Question',
+      name: q,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: a,
+      },
+    })),
+  };
+}
+
 /** Schema Person – untuk halaman Author/Tentang (E-E-A-T) */
 export function authorPersonSchema() {
   return {

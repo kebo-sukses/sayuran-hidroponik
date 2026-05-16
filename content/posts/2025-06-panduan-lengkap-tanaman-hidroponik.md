@@ -1,13 +1,24 @@
 ---
 title: "Panduan Lengkap Tanaman Hidroponik: Dari Nol Sampai Panen (2025)"
 date: "2025-06-15"
-lastModified: "2025-06-15"
+lastModified: "2026-05-15"
 description: "Panduan lengkap tanaman hidroponik untuk pemula. Pelajari sistem NFT, DFT, rakit apung, media tanam, nutrisi AB Mix, dan cara memulai kebun hidroponik di rumah dengan modal minim."
 thumbnail: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80"
 category: "panduan-dasar"
 tags: ["tanaman hidroponik", "cara menanam hidroponik", "sistem hidroponik", "hidroponik pemula", "kebun hidroponik"]
 author: "Kebo Sukses"
 factCheckedBy: "Tim Redaksi Sayur Hidroponik"
+faqs:
+  - q: "Apa itu tanaman hidroponik dan apa kelebihannya dibanding tanam tanah?"
+    a: "Tanaman hidroponik adalah sistem budidaya tanaman menggunakan air bernutrisi sebagai pengganti tanah. Kelebihannya: pertumbuhan 2-3x lebih cepat, hemat air hingga 90%, tidak butuh lahan luas, dan bebas hama tanah."
+  - q: "Berapa modal awal untuk memulai hidroponik di rumah?"
+    a: "Modal bisa dimulai dari Rp 150.000-200.000 untuk sistem wick sederhana atau rakit apung (DWC). Dengan modal Rp 150.000, kamu sudah bisa menanam 12-20 tanaman sayuran daun hingga panen pertama."
+  - q: "Tanaman apa yang paling mudah untuk pemula hidroponik?"
+    a: "Kangkung dan selada adalah pilihan terbaik untuk pemula. Kangkung tumbuh dalam 18-25 hari dan sangat toleran terhadap variasi EC. Selada panen dalam 25-30 hari dan memberikan hasil memuaskan untuk sistem NFT."
+  - q: "Apakah tanaman hidroponik perlu sinar matahari langsung?"
+    a: "Tidak harus. Sayuran daun bisa tumbuh dengan cahaya terang tidak langsung. Untuk tanaman di dalam ruangan, grow light LED full spectrum 40-60 watt sudah memadai untuk area 60x120 cm."
+  - q: "Berapa kali larutan nutrisi AB Mix harus diganti?"
+    a: "Idealnya setiap 7-14 hari, atau ketika EC tidak stabil meski sudah ditambah nutrisi. Jangan biarkan larutan lebih dari 3 minggu tanpa diganti untuk mencegah penumpukan garam dan pertumbuhan bakteri."
 ---
 
 Ingin berkebun tapi tidak punya lahan luas? **Tanaman hidroponik** adalah jawabannya.
@@ -392,6 +403,11 @@ Untuk pemula, rekomendasi saya:
 Setelah berhasil dengan 20–30 tanaman pertama, kamu akan lebih percaya diri untuk memperluas sistem dan mencoba varietas baru.
 
 Siap memulai? Baca juga panduan spesifik kami:
-- Cara Menanam Selada Hidroponik dari Nol sampai Panen
-- Cara Tanam Kangkung Hidroponik (Panen dalam 14 Hari)
-- Cara Membuat Nutrisi AB Mix Sendiri di Rumah
+
+- [Cara Menanam Selada Hidroponik dari Nol sampai Panen](/2025/06/cara-menanam-selada-hidroponik)
+- [Cara Tanam Kangkung Hidroponik (Panen dalam 14 Hari)](/2025/06/cara-menanam-kangkung-hidroponik)
+- [Cara Menanam Bayam Hidroponik: Panen Lebih Cepat, Lebih Bersih](/2025/06/cara-menanam-bayam-hidroponik)
+- [Cara Menanam Pakchoy Hidroponik: Si Sayuran Serbaguna](/2025/06/cara-menanam-pakchoy-hidroponik)
+- [Cara Membuat Kebun Hidroponik di Rumah dengan Modal Minim](/2025/06/cara-membuat-kebun-hidroponik-di-rumah)
+- [Jenis-Jenis Sistem Hidroponik: NFT, DWC, dan Cara Memilih](/2025/07/jenis-sistem-hidroponik)
+- [Budidaya Tomat Hidroponik: Panduan dari Semai Sampai Panen Berulang](/2025/07/budidaya-tomat-hidroponik)

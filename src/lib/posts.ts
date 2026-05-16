@@ -19,6 +19,7 @@ export interface PostFrontmatter {
   factCheckedBy?: string;
   canonicalUrl?: string;
   noindex?: boolean;
+  faqs?: { q: string; a: string }[];
 }
 
 export interface Post extends PostFrontmatter {

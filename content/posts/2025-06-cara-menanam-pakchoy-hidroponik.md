@@ -1,13 +1,22 @@
 ---
 title: "Cara Menanam Pakchoy Hidroponik: Si Sayuran Serbaguna yang Cepat Panen"
 date: "2025-06-30"
-lastModified: "2025-06-30"
+lastModified: "2026-05-15"
 description: "Cara menanam pakchoy hidroponik lengkap dari semai sampai panen 25 hari. Panduan nutrisi AB Mix, EC, pH, jenis sistem terbaik, dan tips dapatkan pakchoy berkualitas restoran dari kebun rumahan."
 thumbnail: "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=1200&q=80"
 category: "sayuran-hidroponik"
 tags: ["pakchoy hidroponik", "cara menanam pakchoy", "sawi hijau hidroponik", "pakcoy NFT", "budidaya pakchoy"]
 author: "Kebo Sukses"
 factCheckedBy: "Tim Redaksi Sayur Hidroponik"
+faqs:
+  - q: "Berapa lama pakchoy hidroponik siap panen?"
+    a: "Pakchoy hidroponik siap panen dalam 25-35 hari setelah pindah tanam. Panen paling ideal saat tinggi tanaman mencapai 15-20 cm dengan batang yang masih kompak. Jangan menunggu terlalu lama karena batang yang terlalu tua menjadi berongga."
+  - q: "Apa perbedaan pakchoy dan sawi dalam budidaya hidroponik?"
+    a: "Pakchoy (Brassica rapa subsp. chinensis) dan sawi hijau (Brassica juncea) adalah dua spesies berbeda. Pakchoy lebih kompak, batangnya lebih renyah, dan lebih toleran suhu panas. Keduanya punya kebutuhan nutrisi dan sistem yang hampir sama."
+  - q: "Sistem apa yang terbaik untuk pakchoy hidroponik?"
+    a: "NFT (Nutrient Film Technique) adalah sistem terbaik untuk pakchoy karena menghasilkan pertumbuhan merata dan batang yang tegak. DWC juga sangat baik untuk skala kecil. Hindari sistem wick karena pertumbuhannya lebih lambat."
+  - q: "Berapa EC dan pH ideal untuk pakchoy?"
+    a: "EC ideal untuk pakchoy adalah 1,5-2,0 mS/cm, dan pH dijaga pada 6,0-7,0. Pastikan kandungan kalsium dan boron dalam nutrisi cukup untuk mencegah tip burn pada daun muda pakchoy."
 ---
 
 Kalau selada adalah sayuran "premium" yang biasanya hanya ada di salad bar restoran, pakchoy adalah sayuran yang ada di mana-mana — tapi versi hidroponiknya jauh di atas apa yang bisa kamu temukan di supermarket mana pun.
@@ -262,3 +271,12 @@ Pakchoy adalah salah satu tanaman hidroponik yang paling "rewarding" untuk ditan
 Yang perlu diingat: konsistensi dalam monitoring EC dan pH, sirkulasi udara yang cukup untuk mencegah tip burn, dan jangan terlambat panen.
 
 Dengan dua hal itu, pakchoy hidroponik kamu tidak hanya akan tumbuh — tapi tumbuh dengan kualitas yang jauh di atas apa yang tersedia di pasar.
+
+---
+
+## Artikel Terkait
+
+- [Panduan Lengkap Tanaman Hidroponik: Dari Nol Sampai Panen](/2025/06/panduan-lengkap-tanaman-hidroponik)
+- [Jenis-Jenis Sistem Hidroponik: NFT, DWC, dan Cara Memilih](/2025/07/jenis-sistem-hidroponik)
+- [Cara Menanam Bayam Hidroponik: Panen Lebih Cepat, Lebih Bersih](/2025/06/cara-menanam-bayam-hidroponik)
+- [Cara Membuat Kebun Hidroponik di Rumah dengan Modal Minim](/2025/06/cara-membuat-kebun-hidroponik-di-rumah)
