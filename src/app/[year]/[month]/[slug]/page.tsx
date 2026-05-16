@@ -10,7 +10,7 @@ import { format } from 'date-fns';
 import { id as idLocale } from 'date-fns/locale';
 
 import { getAllPostSlugs, getPostBySlug, getRelatedPosts } from '@/lib/posts';
-import { generateSEOMetadata, blogPostingSchema, breadcrumbSchema, faqSchema } from '@/lib/seo';
+import { generateSEOMetadata, blogPostingSchema, breadcrumbSchema, faqSchema, howToSchema } from '@/lib/seo';
 import { siteConfig } from '@/lib/config';
 import AuthorBio from '@/components/blog/AuthorBio';
 import Breadcrumb from '@/components/blog/Breadcrumb';
@@ -116,6 +116,18 @@ export default async function BlogPostPage({ params }: { params: Promise<PagePar
             type="application/ld+json"
             dangerouslySetInnerHTML={{
               __html: JSON.stringify(faqSchema(post.faqs)).replace(/<\/script>/gi, '<\\/script>'),
+            }}
+          />
+        </>
+      )}
+      {/* HowTo JSON-LD – safe: source from seo.ts howToSchema(), XSS-escaped with replace(/<\/script>/gi) */}
+      {post.howTo && (
+        <>
+          {/* eslint-disable-next-line react/no-danger */}
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify(howToSchema(post.howTo)).replace(/<\/script>/gi, '<\\/script>'),
             }}
           />
         </>

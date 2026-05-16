@@ -20,6 +20,13 @@ export interface PostFrontmatter {
   canonicalUrl?: string;
   noindex?: boolean;
   faqs?: { q: string; a: string }[];
+  howTo?: {
+    name: string;
+    description: string;
+    totalTime: string;
+    estimatedCost?: string;
+    steps: { name: string; text: string }[];
+  };
 }
 
 export interface Post extends PostFrontmatter {

@@ -17,6 +17,24 @@ faqs:
     a: "DWC (Deep Water Culture) adalah sistem yang paling cocok karena kangkung toleran terhadap akar yang terendam dan tumbuh subur dengan aerasi yang baik. NFT juga sangat efektif dan menghasilkan kangkung yang lebih tegak."
   - q: "Berapa EC dan pH ideal untuk kangkung hidroponik?"
     a: "EC ideal untuk kangkung adalah 1,5-2,5 mS/cm dengan toleransi hingga 3,0 mS/cm. pH dijaga pada 5,5-6,5. Kangkung lebih toleran terhadap variasi EC dibanding selada, sehingga cocok untuk pemula."
+howTo:
+  name: "Cara Menanam Kangkung Hidroponik"
+  description: "Panduan menanam kangkung hidroponik dari biji atau stek hingga panen berkali-kali dalam 21 hari"
+  totalTime: "P25D"
+  estimatedCost: "130000"
+  steps:
+    - name: "Siapkan Benih atau Stek Kangkung"
+      text: "Opsi 1 (dari biji): Rendam biji kangkung 4-8 jam dalam air hangat, lalu semai di rockwool yang direndam air pH 6.0. Opsi 2 (dari stek): Beli kangkung segar di pasar, potong batang 15-20cm, cabut daun bawah agar tidak membusuk."
+    - name: "Semai atau Persiapkan Stek"
+      text: "Dari biji: masukkan 2-3 biji per netpot di rockwool, letakkan di tempat terang. Dari stek: langsung masukkan pangkal batang ke netpot, rendam 3-5cm ke dalam larutan nutrisi EC 1.0-1.5. Akar baru muncul dalam 5-7 hari."
+    - name: "Siapkan Sistem DWC atau NFT"
+      text: "DWC: isi bak dengan larutan nutrisi EC 1.5-2.0, pH 6.0-6.5, nyalakan aerator 24 jam. NFT: pasang pompa, atur kemiringan pipa 3-5 derajat, cek aliran 1-2 liter per menit. Pastikan wadah tidak tembus cahaya untuk mencegah alga."
+    - name: "Pindah Tanam ke Sistem Utama"
+      text: "Pindahkan bibit 7-10 hari setelah semai ke sistem utama. Gunakan EC awal 1.5, naikkan bertahap ke 2.0-2.5 dalam 3-5 hari. Cek warna daun: hijau gelap artinya sehat, pucat kuning artinya kurang nitrogen."
+    - name: "Perawatan Rutin"
+      text: "Cek level nutrisi setiap hari. Ukur EC dan pH 3x seminggu. Ganti larutan setiap 10-14 hari. Pastikan aerasi cukup dan suhu air di bawah 30 derajat Celsius. Perhatikan akar dari tanda busuk yang berwarna coklat berlendir."
+    - name: "Panen Berkali-kali"
+      text: "Kangkung siap panen pertama dalam 18-25 hari. Pangkas batang 5-8cm dari pangkal, sisakan 2-3 ruas untuk tumbuh kembali. Tunas baru muncul dalam 7-10 hari. Satu tanaman bisa dipanen 4-6 kali sebelum kualitas menurun."
 ---
 
 Kalau selada adalah "mahasiswa" dunia hidroponik — butuh perhatian ekstra soal pH dan suhu — maka kangkung adalah **pekerja keras yang tidak rewel**. Tumbuh cepat, tahan kondisi beragam, dan bisa dipanen berkali-kali dari satu tanaman.

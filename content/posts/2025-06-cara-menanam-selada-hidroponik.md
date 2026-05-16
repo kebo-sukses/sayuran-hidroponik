@@ -19,6 +19,24 @@ faqs:
     a: "Penyebab paling umum adalah pH larutan yang salah (di luar 5,5-6,5), EC terlalu rendah, atau larutan nutrisi yang sudah terlalu tua. Cek pH dan EC terlebih dahulu, lalu ganti larutan jika sudah lebih dari 2 minggu."
   - q: "Apa itu tip burn pada selada dan cara mencegahnya?"
     a: "Tip burn adalah kematian jaringan di tepi daun muda akibat kekurangan kalsium di titik tumbuh. Pencegahannya: tingkatkan sirkulasi udara dengan kipas kecil, jaga suhu di bawah 30 derajat Celsius, dan pastikan kalsium cukup dalam nutrisi bagian A."
+howTo:
+  name: "Cara Menanam Selada Hidroponik"
+  description: "Panduan menanam selada hidroponik dari semai hingga panen dalam 30 hari menggunakan sistem NFT atau DWC"
+  totalTime: "P35D"
+  estimatedCost: "150000"
+  steps:
+    - name: "Siapkan Larutan Nutrisi"
+      text: "Larutkan 2ml Nutrisi A dan 2ml Nutrisi B per liter air untuk fase semai (EC 0.8-1.2, pH 6.0-6.2). Gunakan air yang sudah didiamkan 24 jam agar klorin dari air PAM menguap. Siapkan larutan lebih pekat (EC 1.5-2.0) untuk fase vegetatif."
+    - name: "Semai Benih di Rockwool"
+      text: "Rendam rockwool di air pH 6.0 selama 30 menit. Masukkan 1-2 benih selada per lubang. Simpan di tempat terang tidak langsung, suhu 20-25 derajat Celsius. Benih berkecambah dalam 2-4 hari."
+    - name: "Rawat Bibit hingga Siap Pindah Tanam"
+      text: "Siram bibit dengan larutan nutrisi encer EC 0.8-1.2 setiap hari. Bibit siap pindah tanam ketika sudah punya 2-3 daun sejati dan akar menembus rockwool, sekitar hari ke 7-14 setelah semai."
+    - name: "Pindah Tanam ke Sistem NFT atau DWC"
+      text: "Masukkan bibit ke netpot 5cm bersama rockwool. Isi sela-sela dengan hidroton atau sekam bakar. Pasang di pipa NFT atau styrofoam DWC. Isi sistem dengan larutan nutrisi EC 1.0-1.5, pH 5.8-6.2."
+    - name: "Monitoring EC, pH, dan Suhu"
+      text: "Cek EC dan pH 3x seminggu. Tambah air bersih jika EC naik, tambah nutrisi jika EC turun. Ganti larutan setiap 10-14 hari. Jaga suhu larutan di bawah 25 derajat Celsius agar akar tidak busuk."
+    - name: "Panen Selada"
+      text: "Selada siap panen dalam 25-35 hari setelah pindah tanam. Panen saat daun sudah membuka penuh sebelum ada tanda bolting. Bisa dipanen total (cabut) atau parsial (cut-and-come-again) untuk panen 2-3 kali dari satu tanaman."
 ---
 
 Dari semua tanaman yang saya coba di hidroponik, selada adalah yang paling **memuaskan untuk pemula**. Bukan karena mudah â€” tapi karena hasilnya cepat terlihat, variasi varietasnya menggiurkan, dan rasanya jauh lebih segar dibanding yang dijual di supermarket.

@@ -19,6 +19,24 @@ faqs:
     a: "Kangkung bisa dipanen dalam 18-21 hari setelah pindah tanam. Selada membutuhkan 25-30 hari. Bayam dan pakchoy sekitar 20-25 hari. Semua dihitung dari saat bibit dipindahkan ke sistem, bukan dari semai."
   - q: "Bisakah kebun hidroponik ditinggal beberapa hari?"
     a: "Dengan sistem NFT bertimerdan bak nutrisi yang cukup besar (40+ liter), bisa ditinggal 2-3 hari. Lebih dari itu sebaiknya ada yang merawat atau gunakan sistem otomasi dengan timer dan sensor level air."
+howTo:
+  name: "Cara Membuat Kebun Hidroponik di Rumah"
+  description: "Panduan lengkap membuat kebun hidroponik di rumah dari nol dengan modal mulai Rp 150.000"
+  totalTime: "P3D"
+  estimatedCost: "150000"
+  steps:
+    - name: "Pilih Sistem Hidroponik"
+      text: "Pilih sistem yang sesuai budget: DWC (Rp 80.000-150.000) untuk pemula, atau NFT (Rp 300.000-700.000) untuk panen rutin lebih banyak. DWC paling direkomendasikan untuk pertama kali karena paling toleran terhadap kesalahan."
+    - name: "Siapkan Alat dan Bahan"
+      text: "Kumpulkan: wadah atau styrofoam box, netpot, aerator aquarium, rockwool, nutrisi AB Mix, EC meter, pH meter, dan benih. Total modal DWC sederhana sekitar Rp 130.000-150.000 untuk 12 tanaman."
+    - name: "Semai Benih di Rockwool"
+      text: "Rendam rockwool di air pH 6.0 selama 30 menit. Buat lubang kecil, masukkan 2-3 benih. Tutup dengan plastik hitam dan simpan di tempat hangat 25-28 derajat Celsius. Benih berkecambah dalam 2-5 hari."
+    - name: "Pindah Tanam ke Sistem"
+      text: "Setelah bibit berumur 7-10 hari dengan 2-3 daun sejati, masukkan ke netpot, isi sela-sela dengan sekam bakar. Pasang di lubang styrofoam. Isi bak dengan larutan nutrisi EC 1.0-1.5, pH 5.5-6.5. Nyalakan aerator."
+    - name: "Perawatan Rutin"
+      text: "Cek level air nutrisi setiap hari. Ukur EC dan pH 3x seminggu. Tambah air bersih jika EC naik, tambah nutrisi jika EC turun. Ganti larutan setiap 7-14 hari. Pastikan aerator berjalan 24 jam."
+    - name: "Panen"
+      text: "Selada dan kangkung siap panen dalam 25-35 hari. Panen selada dengan cabut penuh. Panen kangkung dengan pangkas batang, sisakan 2-3 ruas untuk tumbuh kembali. Cuci bersih sebelum dikonsumsi."
 ---
 
 Dua tahun lalu, saya mencoba menanam selada di pot tanah di teras. Hasilnya? Daun kuning, akar busuk, dan ulat muncul dari mana-mana. Frustrasi.

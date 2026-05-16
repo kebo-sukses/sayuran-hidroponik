@@ -17,6 +17,24 @@ faqs:
     a: "Blossom End Rot (BER) disebabkan kekurangan kalsium di sel buah, bukan selalu karena kurangnya kalsium di larutan. Penyebab sebenarnya adalah penyerapan kalsium yang terganggu akibat EC terlalu tinggi, pH tidak stabil, atau irigasi yang tidak konsisten."
   - q: "Berapa EC dan pH ideal untuk tomat hidroponik?"
     a: "EC ideal untuk tomat bervariasi: 2,0-2,5 mS/cm saat vegetatif, dan 3,0-4,0 mS/cm saat pembungaan dan pembuahan. pH dijaga pada 5,5-6,5, dengan 6,0-6,2 sebagai zona ideal untuk penyerapan nutrisi optimal."
+howTo:
+  name: "Cara Budidaya Tomat Hidroponik"
+  description: "Panduan lengkap budidaya tomat hidroponik dari semai hingga panen berulang selama 4-6 bulan menggunakan sistem drip"
+  totalTime: "P90D"
+  estimatedCost: "500000"
+  steps:
+    - name: "Semai Benih Tomat"
+      text: "Rendam benih tomat dalam air hangat 40 derajat Celsius selama 2-4 jam. Semai di rockwool yang direndam air pH 5.5-6.0. Masukkan 1 benih per kotak rockwool. Simpan di tempat hangat gelap 3-5 hari hingga berkecambah."
+    - name: "Besarkan Bibit di Tray Semai"
+      text: "Setelah berkecambah, pindahkan ke tempat cahaya penuh. Siram dengan larutan nutrisi encer EC 1.0-1.5. Bibit tomat siap pindah tanam saat tinggi 10-15cm dengan 4-6 daun sejati, sekitar 3-4 minggu setelah semai."
+    - name: "Siapkan Sistem Drip dengan Media Cocopeat"
+      text: "Isi pot atau growbag 10-15 liter dengan cocopeat. Pasang 1 emitter drip per tanaman. Siapkan tangki nutrisi dengan larutan EC 2.0-2.5, pH 5.5-6.5. Program timer irigasi 4-8 kali per hari tergantung suhu dan ukuran tanaman."
+    - name: "Pindah Tanam dan Fase Vegetatif"
+      text: "Pindahkan bibit ke growbag cocopeat. Berikan nutrisi formula vegetatif EC 2.0-2.5 selama 3-4 minggu pertama. Pasang ajir (tiang penyangga) segera setelah tanam dan ikat batang setiap 15-20cm seiring pertumbuhan."
+    - name: "Pangkas Tunas Air dan Kelola Pembungaan"
+      text: "Pangkas semua tunas air (suckers) di ketiak daun sebelum berdiameter 1cm. Pertahankan 1-2 batang utama. Saat bunga muncul, naikkan EC ke 3.0-4.0 dan tingkatkan kandungan kalium dan fosfor dalam formula nutrisi."
+    - name: "Panen Tomat Bertahap"
+      text: "Tomat mulai berbunga 30-45 hari setelah tanam. Buah pertama siap dipanen 70-90 hari setelah tanam, saat warna sudah 70-80 persen merah. Panen secara bertahap setiap 2-3 hari untuk menjaga kualitas rasa dan kesegaran buah."
 ---
 
 Tomat adalah impian banyak petani hidroponik — dan sekaligus tantangan terbesar yang sering membuat mereka frustrasi.

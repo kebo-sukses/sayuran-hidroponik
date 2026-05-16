@@ -17,6 +17,24 @@ faqs:
     a: "Bolting dipicu oleh suhu udara terlalu panas (di atas 32 derajat Celsius), paparan sinar matahari langsung terlalu lama, atau hari yang terlalu panjang. Gunakan naungan 50-70% untuk memperlambat bolting di iklim tropis."
   - q: "Berapa EC dan pH ideal untuk bayam hidroponik?"
     a: "EC ideal untuk bayam adalah 1,8-2,3 mS/cm, dan pH dijaga pada 6,0-7,0. Bayam relatif toleran terhadap variasi EC, tapi sensitif terhadap kekurangan zat besi (Fe) yang menyebabkan klorosis pada daun muda."
+howTo:
+  name: "Cara Menanam Bayam Hidroponik"
+  description: "Panduan menanam bayam hidroponik dari semai hingga panen dalam 20-25 hari menggunakan sistem DWC"
+  totalTime: "P25D"
+  estimatedCost: "130000"
+  steps:
+    - name: "Siapkan Larutan Nutrisi dan Rendam Rockwool"
+      text: "Siapkan larutan nutrisi semai EC 0.8-1.2, pH 6.0-7.0. Rendam rockwool di larutan ini selama 20 menit. Bayam menyukai pH sedikit lebih tinggi dari selada, jaga di kisaran 6.0-7.0 sepanjang siklus."
+    - name: "Semai Benih Bayam"
+      text: "Tabur 2-4 biji bayam di atas rockwool yang sudah lembap. Biji bayam sangat kecil, tidak perlu ditanam dalam-dalam. Tutup tipis dengan selembar tisu basah dan simpan di tempat terang tidak langsung. Berkecambah dalam 3-5 hari."
+    - name: "Rawat Bibit di Tray Semai"
+      text: "Siram bibit dengan larutan nutrisi encer EC 0.8-1.2 setiap hari. Jaga kelembaban media tapi jangan sampai becek. Bibit siap pindah tanam saat memiliki 2-3 daun sejati, sekitar hari ke 7-12 setelah semai."
+    - name: "Pindah Tanam ke Sistem DWC"
+      text: "Masukkan rockwool ke netpot 5cm. Pasang di styrofoam box terisi larutan nutrisi EC 1.5-2.0, pH 6.0-7.0. Nyalakan aerator 24 jam. Jarak tanam 10-15cm antar tanaman agar daun tidak saling menutupi."
+    - name: "Perawatan dan Kontrol Lingkungan"
+      text: "Cek EC dan pH 3x seminggu. Jika daun muda kuning tapi daun tua hijau, kemungkinan kekurangan zat besi. Beri naungan 50% saat suhu udara di atas 32 derajat Celsius untuk mencegah bolting prematur."
+    - name: "Panen Sebelum Bolting"
+      text: "Bayam siap panen dalam 20-25 hari. Panen segera saat daun sudah cukup besar dan sebelum muncul tangkai bunga. Setelah bolting daun menjadi pahit. Panen dengan potong batang atau cabut keseluruhan tanaman dari netpot."
 ---
 
 Bayam adalah sayuran yang paling sering dicari ibu-ibu di pasar — dan ironisnya, juga yang paling cepat layu setelah dibeli. Beli pagi, sore sudah kuning. Beli Jumat, Sabtu sudah berlendir.

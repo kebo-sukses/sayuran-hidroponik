@@ -17,6 +17,24 @@ faqs:
     a: "NFT (Nutrient Film Technique) adalah sistem terbaik untuk pakchoy karena menghasilkan pertumbuhan merata dan batang yang tegak. DWC juga sangat baik untuk skala kecil. Hindari sistem wick karena pertumbuhannya lebih lambat."
   - q: "Berapa EC dan pH ideal untuk pakchoy?"
     a: "EC ideal untuk pakchoy adalah 1,5-2,0 mS/cm, dan pH dijaga pada 6,0-7,0. Pastikan kandungan kalsium dan boron dalam nutrisi cukup untuk mencegah tip burn pada daun muda pakchoy."
+howTo:
+  name: "Cara Menanam Pakchoy Hidroponik"
+  description: "Panduan menanam pakchoy hidroponik dari semai hingga panen berkualitas restoran dalam 25-35 hari"
+  totalTime: "P35D"
+  estimatedCost: "150000"
+  steps:
+    - name: "Siapkan Nutrisi dan Rendam Rockwool"
+      text: "Siapkan larutan nutrisi semai EC 0.8-1.2, pH 6.0-6.5. Rendam rockwool di larutan ini selama 30 menit, peras sedikit agar tidak menetes. Pakchoy termasuk keluarga Brassica yang butuh kalsium dan boron cukup dari awal."
+    - name: "Semai Benih Pakchoy"
+      text: "Masukkan 2-3 benih pakchoy per lubang rockwool dengan kedalaman 0.5cm. Tutup tipis, simpan di tempat terang tidak langsung dengan suhu 20-25 derajat Celsius. Benih berkecambah dalam 3-5 hari."
+    - name: "Rawat Bibit 10-14 Hari"
+      text: "Jaga bibit di tray semai dengan larutan nutrisi encer EC 0.8-1.2. Bibit siap pindah tanam saat sudah punya 3-4 daun sejati dan tinggi sekitar 5-8cm, biasanya 10-14 hari setelah semai."
+    - name: "Pindah Tanam ke Sistem NFT atau DWC"
+      text: "Masukkan bibit ke netpot 5cm. Pasang di pipa NFT dengan kemiringan 3-5 derajat, atau styrofoam DWC dengan aerasi kuat. Isi dengan larutan nutrisi EC 1.5-2.0, pH 5.8-6.5. Jarak tanam ideal 15-20cm."
+    - name: "Perawatan dan Jaga Sirkulasi Udara"
+      text: "Cek EC dan pH 3x seminggu. Naikkan EC ke 2.0-2.8 di fase vegetatif aktif (14-25 hari setelah pindah tanam). Pastikan sirkulasi udara cukup di sekitar tanaman untuk mencegah tip burn pada daun muda pakchoy."
+    - name: "Panen pada Hari ke 25-35"
+      text: "Pakchoy siap panen saat tinggi 15-20cm dengan batang kompak dan mengkilap. Turunkan EC sedikit 3-5 hari sebelum panen untuk batang yang lebih berair dan renyah. Panen dengan cabut atau potong di pangkal batang."
 ---
 
 Kalau selada adalah sayuran "premium" yang biasanya hanya ada di salad bar restoran, pakchoy adalah sayuran yang ada di mana-mana — tapi versi hidroponiknya jauh di atas apa yang bisa kamu temukan di supermarket mana pun.

@@ -142,6 +142,36 @@ export function breadcrumbSchema(
   };
 }
 
+/** Schema HowTo – untuk GEO (Generative Engine Optimization) dan rich results langkah-langkah */
+export function howToSchema(data: {
+  name: string;
+  description: string;
+  totalTime: string;
+  estimatedCost?: string;
+  steps: { name: string; text: string }[];
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    name: data.name,
+    description: data.description,
+    totalTime: data.totalTime,
+    ...(data.estimatedCost && {
+      estimatedCost: {
+        '@type': 'MonetaryAmount',
+        currency: 'IDR',
+        value: data.estimatedCost,
+      },
+    }),
+    step: data.steps.map((step, index) => ({
+      '@type': 'HowToStep',
+      position: index + 1,
+      name: step.name,
+      text: step.text,
+    })),
+  };
+}
+
 /** Schema FAQPage – untuk AEO (Answer Engine Optimization) dan snippet FAQ Google */
 export function faqSchema(faqs: { q: string; a: string }[]) {
   return {
