@@ -42,26 +42,26 @@
 Perbaikan teknis ini tidak membutuhkan artikel baru, tapi dampaknya langsung ke ranking dan kemunculan di Google AI Overviews serta ChatGPT Search.
 
 ### 1.1 Internal Linking (Prioritas TERTINGGI)
-- [ ] Tambah internal link di artikel #1 (Panduan Lengkap) → semua artikel lain
-- [ ] Tambah internal link di artikel #2 (Kebun Hidroponik) → #7 (Sistem), #3, #4
-- [ ] Tambah internal link di artikel #3 (Selada) → #1 (Panduan), #7 (Sistem)
-- [ ] Tambah internal link di artikel #4 (Kangkung) → #1 (Panduan), #7 (Sistem)
-- [ ] Tambah internal link di artikel #5 (Bayam) → #1 (Panduan), #3 (Selada)
-- [ ] Tambah internal link di artikel #6 (Pakchoy) → #1 (Panduan), #5 (Bayam)
-- [ ] Tambah internal link di artikel #7 (Sistem) → #2 (Kebun), #8 (Tomat)
-- [ ] Tambah internal link di artikel #8 (Tomat) → #7 (Sistem), #1 (Panduan)
+- [x] Tambah internal link di artikel #1 (Panduan Lengkap) → semua artikel lain
+- [x] Tambah internal link di artikel #2 (Kebun Hidroponik) → #7 (Sistem), #3, #4
+- [x] Tambah internal link di artikel #3 (Selada) → #1 (Panduan), #7 (Sistem)
+- [x] Tambah internal link di artikel #4 (Kangkung) → #1 (Panduan), #7 (Sistem)
+- [x] Tambah internal link di artikel #5 (Bayam) → #1 (Panduan), #3 (Selada)
+- [x] Tambah internal link di artikel #6 (Pakchoy) → #1 (Panduan), #5 (Bayam)
+- [x] Tambah internal link di artikel #7 (Sistem) → #2 (Kebun), #8 (Tomat)
+- [x] Tambah internal link di artikel #8 (Tomat) → #7 (Sistem), #1 (Panduan)
 
 ### 1.2 FAQ Schema — AEO (Answer Engine Optimization)
 > FAQ Schema membuat konten muncul di Google AI Overviews, ChatGPT Search, dan Perplexity sebagai sumber jawaban langsung.
-- [ ] Tambah FAQ Schema support di komponen `page.tsx`
-- [ ] Tambah section FAQ + frontmatter `faqs` di artikel #1 (Panduan Lengkap)
-- [ ] Tambah section FAQ di artikel #2 (Kebun Hidroponik)
-- [ ] Tambah section FAQ di artikel #3 (Selada)
-- [ ] Tambah section FAQ di artikel #4 (Kangkung)
-- [ ] Tambah section FAQ di artikel #5 (Bayam)
-- [ ] Tambah section FAQ di artikel #6 (Pakchoy)
-- [ ] Tambah section FAQ di artikel #7 (Sistem Hidroponik)
-- [ ] Tambah section FAQ di artikel #8 (Tomat)
+- [x] Tambah FAQ Schema support di komponen `page.tsx`
+- [x] Tambah section FAQ + frontmatter `faqs` di artikel #1 (Panduan Lengkap)
+- [x] Tambah section FAQ di artikel #2 (Kebun Hidroponik)
+- [x] Tambah section FAQ di artikel #3 (Selada)
+- [x] Tambah section FAQ di artikel #4 (Kangkung)
+- [x] Tambah section FAQ di artikel #5 (Bayam)
+- [x] Tambah section FAQ di artikel #6 (Pakchoy)
+- [x] Tambah section FAQ di artikel #7 (Sistem Hidroponik)
+- [x] Tambah section FAQ di artikel #8 (Tomat)
 
 ### 1.3 HowTo Schema — GEO (Generative Engine Optimization)
 > HowTo Schema membuat Google menampilkan langkah-langkah secara visual di SERP dan mengutip sebagai prosedur resmi di AI answers.
