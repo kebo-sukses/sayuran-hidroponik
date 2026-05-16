@@ -2,6 +2,7 @@ import { getAllPosts } from '@/lib/posts';
 import { generateSEOMetadata } from '@/lib/seo';
 import { siteConfig } from '@/lib/config';
 import PostCard from '@/components/blog/PostCard';
+import PaginatedPostGrid from '@/components/blog/PaginatedPostGrid';
 import AdSlot from '@/components/ads/AdSlot';
 import Link from 'next/link';
 import { ArrowRight, Leaf, Droplets, Sun } from 'lucide-react';
@@ -11,7 +12,7 @@ export const metadata = generateSEOMetadata({});
 export default async function HomePage() {
   const allPosts = await getAllPosts();
   const featuredPost = allPosts[0];
-  const latestPosts = allPosts.slice(1, 7);
+  const remainingPosts = allPosts.slice(1);
 
   return (
     <div>
@@ -73,17 +74,14 @@ export default async function HomePage() {
         {/* AdSense In-feed */}
         <AdSlot type="infeed" className="mb-10" />
 
-        {/* ── Latest Posts Grid ── */}
-        {latestPosts.length > 0 && (
+        {/* ── Semua Artikel dengan Pagination ── */}
+        {remainingPosts.length > 0 && (
           <section className="mb-12">
-            <div className="flex items-center justify-between mb-5">
-              <h2 className="text-xl font-bold text-gray-900">Artikel Pilihan</h2>
-            </div>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              {latestPosts.map((post) => (
-                <PostCard key={post.slug} post={post} />
-              ))}
-            </div>
+            <PaginatedPostGrid
+              posts={remainingPosts}
+              postsPerPage={6}
+              title="Semua Artikel"
+            />
           </section>
         )}
 

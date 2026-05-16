@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation';
 import { getPostsByCategory, getAllPosts } from '@/lib/posts';
 import { generateSEOMetadata } from '@/lib/seo';
 import { siteConfig } from '@/lib/config';
-import PostCard from '@/components/blog/PostCard';
+import PaginatedPostGrid from '@/components/blog/PaginatedPostGrid';
 import AdSlot from '@/components/ads/AdSlot';
 import Breadcrumb from '@/components/blog/Breadcrumb';
 
@@ -50,11 +50,7 @@ export default async function CategoryPage({ params }: { params: Promise<PagePar
           <p className="text-lg">Belum ada artikel di kategori ini.</p>
         </div>
       ) : (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {posts.map((post) => (
-            <PostCard key={post.slug} post={post} />
-          ))}
-        </div>
+        <PaginatedPostGrid posts={posts} postsPerPage={6} />
       )}
     </div>
   );
