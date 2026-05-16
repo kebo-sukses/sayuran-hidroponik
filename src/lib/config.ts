@@ -15,8 +15,10 @@ export const siteConfig = {
   // Informasi author untuk E-E-A-T
   author: {
     name: 'Kebo Sukses',
+    jobTitle: 'Penulis & Praktisi Hidroponik',
     bio: 'Praktisi hidroponik dengan pengalaman 5+ tahun. Telah membantu ribuan pemula memulai kebun hidroponik di rumah.',
     image: '/images/author-kebo-sukses.svg',
+    email: 'kontak@sayur-hidroponik.my.id',
     social: {
       facebook: 'https://facebook.com/kebosukses',
     },

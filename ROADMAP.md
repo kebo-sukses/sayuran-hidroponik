@@ -71,7 +71,7 @@ Perbaikan teknis ini tidak membutuhkan artikel baru, tapi dampaknya langsung ke 
 - [x] Implementasi HowTo di artikel #8 (Tomat)
 
 ### 1.4 Optimasi Halaman Tentang (E-E-A-T)
-- [ ] Perkuat halaman `/tentang` dengan riwayat lengkap, pengalaman, dan kontak
+- [x] Perkuat halaman `/tentang` dengan riwayat lengkap, pengalaman, dan kontak
 
 ---
 
