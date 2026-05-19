@@ -19,7 +19,7 @@ export function GoogleTagScript() {
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-          gtag('config', '${siteConfig.gtag}', { page_path: window.location.pathname });
+          gtag('config', '${siteConfig.gtag}');
           gtag('config', '${siteConfig.gads}');
         `}
       </Script>
@@ -39,7 +39,7 @@ export function AdSenseScript() {
       async
       src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${siteConfig.adsenseId}`}
       crossOrigin="anonymous"
-      strategy="afterInteractive"
+      strategy="lazyOnload"
     />
   );
 }

@@ -41,6 +41,7 @@ const nextConfig = {
     formats: ['image/avif', 'image/webp'],
     deviceSizes: [640, 750, 828, 1080, 1200, 1920],
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
+    minimumCacheTTL: 2592000, // 30 hari cache untuk gambar yang dioptimasi
   },
 
   // Header keamanan dan performa
@@ -51,13 +52,25 @@ const nextConfig = {
         headers: [
           { key: 'X-Content-Type-Options', value: 'nosniff' },
           { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
-          { key: 'X-XSS-Protection', value: '1; mode=block' },
           { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
+          // HSTS — paksa HTTPS minimal 1 tahun
+          { key: 'Strict-Transport-Security', value: 'max-age=31536000; includeSubDomains; preload' },
+          // COOP — allow-popups agar AdSense tetap berfungsi
+          { key: 'Cross-Origin-Opener-Policy', value: 'same-origin-allow-popups' },
+          // Permissions-Policy — batasi akses fitur yang tidak dipakai
+          { key: 'Permissions-Policy', value: 'camera=(), microphone=(), geolocation=()' },
         ],
       },
       {
-        // Cache agresif untuk aset statis
-        source: '/(.*)\\.(ico|png|jpg|jpeg|webp|avif|svg|woff2)',
+        // Cache maksimal untuk aset statis Next.js (hash di filename = aman immutable)
+        source: '/_next/static/(.*)',
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' },
+        ],
+      },
+      {
+        // Cache untuk file public (gambar, favicon, dll)
+        source: '/(.*)\\.(ico|png|jpg|jpeg|webp|avif|svg|woff2|woff|ttf)',
         headers: [
           { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' },
         ],
