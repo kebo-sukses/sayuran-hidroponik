@@ -9,16 +9,16 @@ description: "Panduan bisnis sayuran hidroponik lengkap: simulasi modal dari Rp 
 thumbnail: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80"
 factCheckedBy: "Tim Redaksi Sayur Hidroponik"
 faqs:
-  - question: "Berapa modal minimal untuk memulai bisnis sayuran hidroponik yang menghasilkan?"
-    answer: "Modal minimal yang realistis untuk bisnis (bukan sekadar hobi) adalah Rp 1,5–3 juta untuk sistem NFT paralon dengan 50–100 lubang tanam. Di bawah itu, hasilnya terlalu kecil untuk dijual secara konsisten. Namun jika budget sangat terbatas, mulai dari sistem botol bekas Rp 50–100 ribu untuk belajar teknis dulu sebelum invest lebih besar."
-  - question: "Berapa lama balik modal (BEP) bisnis sayuran hidroponik?"
-    answer: "Untuk sistem NFT skala kecil (modal Rp 2–3 juta, 50–80 lubang), BEP biasanya tercapai dalam 3–5 bulan jika pemasaran berjalan lancar. Kuncinya: jual ke pasar yang sudah pasti (tetangga, warung, grup WA, atau pesanan rutin) sejak sebelum panen pertama. Jangan menunggu panen baru cari pembeli."
-  - question: "Sayuran hidroponik apa yang paling menguntungkan untuk dijual?"
-    answer: "Selada adalah yang paling menguntungkan secara keseluruhan: harga jual Rp 30.000–50.000/kg, panen cepat (25–30 hari), permintaan stabil dari restoran dan hotel. Kangkung untuk perputaran cepat. Pakchoy untuk pasar premium. Cabe hidroponik untuk margin tertinggi per kg, tapi siklus lebih panjang (75–90 hari)."
-  - question: "Di mana bisa menjual sayuran hidroponik hasil panen?"
-    answer: "Saluran penjualan terbaik (dari margin tertinggi ke terendah): 1) Langsung ke konsumen akhir via grup WA/Instagram (margin 100%), 2) Restoran dan kafe organik/premium, 3) Warung makan dan kantin, 4) Pasar tradisional, 5) Supermarket/hypermarket (margin paling rendah karena sistem konsinyasi). Mulai dari lingkungan terdekat dulu."
-  - question: "Apakah bisnis hidroponik perlu izin usaha khusus?"
-    answer: "Untuk skala rumahan dan UMKM kecil, izin formal tidak wajib ada. Namun untuk menjual ke supermarket besar atau restoran chain, Anda perlu sertifikasi produk (PIRT atau sertifikasi organik). Untuk memulai, cukup daftar NIB (Nomor Induk Berusaha) melalui OSS yang gratis dan bisa online."
+  - q: "Berapa modal minimal untuk memulai bisnis sayuran hidroponik yang menghasilkan?"
+    a: "Modal minimal yang realistis untuk bisnis (bukan sekadar hobi) adalah Rp 1,5–3 juta untuk sistem NFT paralon dengan 50–100 lubang tanam. Di bawah itu, hasilnya terlalu kecil untuk dijual secara konsisten. Namun jika budget sangat terbatas, mulai dari sistem botol bekas Rp 50–100 ribu untuk belajar teknis dulu sebelum invest lebih besar."
+  - q: "Berapa lama balik modal (BEP) bisnis sayuran hidroponik?"
+    a: "Untuk sistem NFT skala kecil (modal Rp 2–3 juta, 50–80 lubang), BEP biasanya tercapai dalam 3–5 bulan jika pemasaran berjalan lancar. Kuncinya: jual ke pasar yang sudah pasti (tetangga, warung, grup WA, atau pesanan rutin) sejak sebelum panen pertama. Jangan menunggu panen baru cari pembeli."
+  - q: "Sayuran hidroponik apa yang paling menguntungkan untuk dijual?"
+    a: "Selada adalah yang paling menguntungkan secara keseluruhan: harga jual Rp 30.000–50.000/kg, panen cepat (25–30 hari), permintaan stabil dari restoran dan hotel. Kangkung untuk perputaran cepat. Pakchoy untuk pasar premium. Cabe hidroponik untuk margin tertinggi per kg, tapi siklus lebih panjang (75–90 hari)."
+  - q: "Di mana bisa menjual sayuran hidroponik hasil panen?"
+    a: "Saluran penjualan terbaik (dari margin tertinggi ke terendah): 1) Langsung ke konsumen akhir via grup WA/Instagram (margin 100%), 2) Restoran dan kafe organik/premium, 3) Warung makan dan kantin, 4) Pasar tradisional, 5) Supermarket/hypermarket (margin paling rendah karena sistem konsinyasi). Mulai dari lingkungan terdekat dulu."
+  - q: "Apakah bisnis hidroponik perlu izin usaha khusus?"
+    a: "Untuk skala rumahan dan UMKM kecil, izin formal tidak wajib ada. Namun untuk menjual ke supermarket besar atau restoran chain, Anda perlu sertifikasi produk (PIRT atau sertifikasi organik). Untuk memulai, cukup daftar NIB (Nomor Induk Berusaha) melalui OSS yang gratis dan bisa online."
 ---
 
 # Bisnis Sayuran Hidroponik: Simulasi Modal, Pilihan Sistem, dan Proyeksi Keuntungan

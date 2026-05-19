@@ -9,16 +9,16 @@ description: "Panduan lengkap mengatasi hama dan penyakit tanaman hidroponik: ku
 thumbnail: "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=1200&q=80"
 factCheckedBy: "Tim Redaksi Sayur Hidroponik"
 faqs:
-  - question: "Apakah tanaman hidroponik lebih rentan terkena hama dibanding tanaman di tanah?"
-    answer: "Tidak selalu lebih rentan — namun karakteristik hama berbeda. Hidroponik bebas dari hama tanah (nematoda, ulat tanah), tetapi lebih rentan terhadap hama udara seperti kutu daun dan thrips karena pertumbuhan yang subur dan daun yang lembut. Kelembapan tinggi di sekitar sistem air juga bisa memicu jamur dan penyakit akar jika sirkulasi udara buruk."
-  - question: "Bagaimana cara paling cepat mengatasi serangan kutu daun pada tanaman hidroponik?"
-    answer: "Cara tercepat: semprotkan larutan sabun cuci piring cair (5 ml per 1 liter air) langsung ke seluruh permukaan daun, termasuk bagian bawah. Lakukan setiap 2 hari selama 1 minggu. Untuk serangan berat, tambahkan minyak neem (neem oil) 5 ml per liter. Pisahkan tanaman yang terserang dari yang sehat terlebih dahulu."
-  - question: "Apa penyebab akar tanaman hidroponik berwarna cokelat dan berlendir?"
-    answer: "Akar cokelat berlendir adalah tanda akar busuk (root rot) yang disebabkan jamur Pythium atau Phytophthora. Penyebab utama: suhu larutan nutrisi terlalu hangat (>25°C), aerasi buruk, atau nutrisi terlalu pekat. Solusi: ganti larutan nutrisi, cuci bak dan pipa dengan larutan pemutih 1:10, tambahkan aerator/air stone, dan turunkan suhu larutan."
-  - question: "Apakah pestisida kimia aman digunakan untuk tanaman hidroponik sayuran yang akan dimakan?"
-    answer: "Hindari pestisida kimia sintetis karena residu sulit dibersihkan dan bisa terserap langsung ke jaringan tanaman melalui air nutrisi. Gunakan pestisida organik: larutan sabun, minyak neem, ekstrak bawang putih, atau campuran air + cabai rawit. Jika terpaksa menggunakan pestisida kimia, pilih yang water-soluble dan berhenti aplikasi minimal 14 hari sebelum panen."
-  - question: "Bagaimana cara mencegah lumut dan alga tumbuh di bak penampung nutrisi hidroponik?"
-    answer: "Lumut/alga tumbuh karena cahaya matahari masuk ke larutan nutrisi. Solusi: tutup rapat bak penampung dengan penutup yang opaque (tidak tembus cahaya), bungkus selang transparan dengan aluminium foil atau lakban hitam, cat pipa paralon dengan warna gelap jika transparan. Penggantian total nutrisi setiap 10–14 hari juga mencegah pertumbuhan alga."
+  - q: "Apakah tanaman hidroponik lebih rentan terkena hama dibanding tanaman di tanah?"
+    a: "Tidak selalu lebih rentan — namun karakteristik hama berbeda. Hidroponik bebas dari hama tanah (nematoda, ulat tanah), tetapi lebih rentan terhadap hama udara seperti kutu daun dan thrips karena pertumbuhan yang subur dan daun yang lembut. Kelembapan tinggi di sekitar sistem air juga bisa memicu jamur dan penyakit akar jika sirkulasi udara buruk."
+  - q: "Bagaimana cara paling cepat mengatasi serangan kutu daun pada tanaman hidroponik?"
+    a: "Cara tercepat: semprotkan larutan sabun cuci piring cair (5 ml per 1 liter air) langsung ke seluruh permukaan daun, termasuk bagian bawah. Lakukan setiap 2 hari selama 1 minggu. Untuk serangan berat, tambahkan minyak neem (neem oil) 5 ml per liter. Pisahkan tanaman yang terserang dari yang sehat terlebih dahulu."
+  - q: "Apa penyebab akar tanaman hidroponik berwarna cokelat dan berlendir?"
+    a: "Akar cokelat berlendir adalah tanda akar busuk (root rot) yang disebabkan jamur Pythium atau Phytophthora. Penyebab utama: suhu larutan nutrisi terlalu hangat (>25°C), aerasi buruk, atau nutrisi terlalu pekat. Solusi: ganti larutan nutrisi, cuci bak dan pipa dengan larutan pemutih 1:10, tambahkan aerator/air stone, dan turunkan suhu larutan."
+  - q: "Apakah pestisida kimia aman digunakan untuk tanaman hidroponik sayuran yang akan dimakan?"
+    a: "Hindari pestisida kimia sintetis karena residu sulit dibersihkan dan bisa terserap langsung ke jaringan tanaman melalui air nutrisi. Gunakan pestisida organik: larutan sabun, minyak neem, ekstrak bawang putih, atau campuran air + cabai rawit. Jika terpaksa menggunakan pestisida kimia, pilih yang water-soluble dan berhenti aplikasi minimal 14 hari sebelum panen."
+  - q: "Bagaimana cara mencegah lumut dan alga tumbuh di bak penampung nutrisi hidroponik?"
+    a: "Lumut/alga tumbuh karena cahaya matahari masuk ke larutan nutrisi. Solusi: tutup rapat bak penampung dengan penutup yang opaque (tidak tembus cahaya), bungkus selang transparan dengan aluminium foil atau lakban hitam, cat pipa paralon dengan warna gelap jika transparan. Penggantian total nutrisi setiap 10–14 hari juga mencegah pertumbuhan alga."
 ---
 
 # Hama dan Penyakit Tanaman Hidroponik: Panduan Identifikasi, Pencegahan, dan Pengobatan
