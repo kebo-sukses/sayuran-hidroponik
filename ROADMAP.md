@@ -1,5 +1,5 @@
 # 🗺️ Roadmap & Content Plan — Sayur Hidroponik
-> Last updated: 16 Mei 2026  
+> Last updated: 19 Mei 2026  
 > Domain: https://sayur-hidroponik.my.id  
 > Sumber keyword: Google Keyword Planner (Apr 2025 – Mar 2026)
 
@@ -17,7 +17,7 @@
 | Smart thumbnail system (PostThumbnail + Unsplash) | ✅ |
 | remark-gfm untuk tabel Markdown | ✅ |
 | Avatar author SVG | ✅ |
-| **Total artikel live** | **8 artikel** |
+| **Total artikel live** | **30 artikel** |
 
 ---
 
@@ -72,6 +72,53 @@ Perbaikan teknis ini tidak membutuhkan artikel baru, tapi dampaknya langsung ke 
 
 ### 1.4 Optimasi Halaman Tentang (E-E-A-T)
 - [x] Perkuat halaman `/tentang` dengan riwayat lengkap, pengalaman, dan kontak
+
+---
+
+## 🏗️ Content Cluster Architecture (Topical Authority Strategy)
+> Setiap artikel bukan berdiri sendiri — mereka saling terhubung dalam 5 cluster tematik.
+> Google akan mengenali website ini sebagai **otoritas** di topik hidroponik Indonesia.
+
+### Cluster 1 — Sistem Hidroponik
+**Pillar:** Jenis-Jenis Sistem Hidroponik ✅
+- Spoke: Sistem NFT dari Paralon ← Fase 4
+- Spoke: Sistem Rakit Apung Styrofoam ← Fase 5
+- Spoke: Sistem Irigasi Tetes DIY ← Fase 7
+- Spoke: Sistem DWC Ember ← Fase 8
+
+### Cluster 2 — Sayuran & Tanaman
+**Pillar:** 15 Contoh Tanaman Hidroponik ✅
+- Spoke: Selada ✅, Kangkung ✅, Bayam ✅, Pakchoy ✅, Cabe ✅, Tomat ✅, Selada Air ✅
+- Spoke: Timun ← Fase 5
+- Spoke: Strawberry ← Fase 5
+- Spoke: Bawang Daun ← Fase 6
+- Spoke: Sawi ← Fase 8
+
+### Cluster 3 — Nutrisi & Teknis
+**Pillar:** Cara Membuat Nutrisi AB Mix ✅
+- Spoke: Cara Mengukur EC/pH ✅
+- Spoke: Penyemaian Benih di Rockwool ← Fase 4 🔥 (+900% YoY)
+- Spoke: Media Tanam Kangkung ← Fase 5 🔥 (+900% YoY)
+- Spoke: Nutrisi Organik Hidroponik ← Fase 7
+
+### Cluster 4 — Cara Membuat (DIY)
+**Pillar:** Cara Membuat Kebun Hidroponik ✅
+- Spoke: Botol Bekas ✅
+- Spoke: NFT Paralon ← Fase 4
+- Spoke: Rakit Apung Styrofoam ← Fase 5
+- Spoke: Irigasi Tetes DIY ← Fase 7
+
+### Cluster 5 — Masalah & Solusi *(Kosong = Monopoli!)*
+**Pillar:** Hama & Penyakit Tanaman Hidroponik ← Fase 4
+- Spoke: Daun Kuning — Penyebab & Solusi ← Fase 7
+- Spoke: Akar Busuk Hidroponik ← Fase 7
+- Spoke: Defisiensi Nutrisi ← Fase 8
+
+### Peta Internal Link Wajib
+- **Artikel budidaya sayuran** → selalu link ke: Panduan Lengkap, Sistem Hidroponik, AB Mix, EC/pH, Hama & Penyakit
+- **Artikel DIY/cara membuat** → selalu link ke: Alat Perlengkapan, Botol Bekas, AB Mix, Penyemaian Benih
+- **Artikel masalah/solusi** → selalu link ke: semua artikel budidaya yang relevan
+- **Pillar pages** → wajib di-update setiap kali spoke baru ditambahkan
 
 ---
 
@@ -149,75 +196,198 @@ Keyword 500/bulan tapi **sangat strategis** — artikel-artikel ini menjawab per
 
 ---
 
-## 📅 FASE 4 — Content Sprint: Tier 3 (Bisnis & Long Tail)
-> Agu 2026 — Target: 4 artikel baru
+## 📅 FASE 4 — Cluster Expansion + Quick Win Attack
+> Agu 2026 — Target: 4 artikel baru | Total setelah fase ini: **20 artikel**
 
-### Minggu 1–2 Agustus 2026
-- [ ] **R5** — `sistem hidroponik nft` (500/bln, Menengah)
+> **Quick Win Strategy** (terinspirasi dari `cara campuran ab mix` yang pernah page 1 selama 6 bulan):
+> Gunakan angle **sangat spesifik** di judul dan H2. Bukan "sistem NFT" tapi "cara membuat sistem NFT dari pipa paralon ukuran 2,5 inch". Bukan "penyemaian benih" tapi "cara semai benih selada di rockwool agar berkecambah 100%".
+
+- [x] **R5** — `hidroponik nft` (500/bln, Menengah) 🔵 CLUSTER 1 + 4
   - Judul: **Cara Membuat Sistem NFT Hidroponik dari Pipa Paralon: Panduan Step-by-Step**
   - Slug: `2026-08-cara-membuat-sistem-nft-hidroponik-paralon`
   - Kategori: `sistem-hidroponik`
-  - Secondary keyword: `hidroponik nft`, `teknik nft hidroponik`, `sistem hidroponik irigasi`
+  - Quick win keywords: `cara membuat hidroponik nft dari pipa paralon`, `sistem nft paralon sederhana`, `biaya buat nft hidroponik`
+  - HowTo: ✅ 6 langkah | Internal link keluar → AB Mix ✅, EC/pH ✅, Alat ✅, Hama ←
+  - Internal link masuk dari → Jenis Sistem ✅, Kebun Hidroponik ✅, Alat Perlengkapan ✅
 
-- [ ] **H1** — Hama & Penyakit (turunan dari semua artikel, long tail beragam)
-  - Judul: **Hama dan Penyakit Tanaman Hidroponik: Cara Mengatasi dan Mencegahnya**
+- [x] **H1** — long tail cluster hama (50/bln × 30+ variasi) 🟣 CLUSTER 5 PILLAR
+  - Judul: **Hama dan Penyakit Tanaman Hidroponik: Panduan Identifikasi, Pencegahan, dan Pengobatan**
   - Slug: `2026-08-hama-penyakit-tanaman-hidroponik`
   - Kategori: `panduan-dasar`
-  - Secondary keyword: `masalah tanaman hidroponik`, `tips hidroponik`
-  - Catatan: Artikel ini akan menerima banyak internal link dari semua artikel budidaya.
+  - Quick win keywords: `hama kutu daun tanaman hidroponik`, `cara mengatasi kutu putih hidroponik`, `tanaman hidroponik layu`, `akar tanaman hidroponik berlendir`
+  - HowTo: ❌ (referensi/troubleshooting)
+  - Internal link masuk dari → SEMUA artikel budidaya: kangkung, bayam, cabe, tomat, selada, pakchoy, selada air
+  - Internal link keluar → Panduan Lengkap ✅, EC/pH ✅, AB Mix ✅, Penyemaian ←
 
-### Minggu 3–4 Agustus 2026
-- [ ] **B2** — `bisnis sayuran hidroponik` (50/bln tapi CPM sangat tinggi)
-  - Judul: **Bisnis Sayuran Hidroponik: Simulasi Modal, Sistem, dan Perhitungan Untung Rugi**
+- [x] **B2** — `bisnis hidroponik pemula` (50/bln, CPM 3–7×) 💰 HIGH CPM
+  - Judul: **Bisnis Sayuran Hidroponik: Simulasi Modal, Pilihan Sistem, dan Proyeksi Keuntungan**
   - Slug: `2026-08-bisnis-sayuran-hidroponik`
   - Kategori: `budidaya`
-  - Secondary keyword: `usaha hidroponik`, `usaha tanaman hidroponik`, `usaha sayuran hidroponik`
-  - Catatan: ⭐ CPM iklan topik bisnis/usaha = 2–5x lebih tinggi dari topik cara tanam biasa.
+  - Quick win keywords: `modal usaha hidroponik selada`, `perhitungan untung rugi hidroponik`, `bisnis hidroponik pemula modal kecil`, `usaha sayuran hidroponik rumahan`
+  - HowTo: ❌ (simulasi kalkulasi) | CPM topik bisnis = 3–7× lebih tinggi dari "cara menanam"
+  - Internal link keluar → NFT Paralon ←, AB Mix ✅, Alat ✅, EC/pH ✅, Selada ✅, Penyemaian ←
 
-- [ ] **P4** — `penyemaian benih` (500/bln, Rendah)
-  - Judul: **Cara Penyemaian Benih Hidroponik di Rockwool: Panduan dari Nol**
+- [x] **P4** — `penyemaian benih` (500/bln, +900% YoY 🔥, Rendah) 🟠 CLUSTER 3
+  - Judul: **Cara Penyemaian Benih Hidroponik di Rockwool: Panduan Lengkap dari Nol**
   - Slug: `2026-08-cara-penyemaian-benih-hidroponik-rockwool`
   - Kategori: `panduan-dasar`
-  - Secondary keyword: `pembibitan hidroponik`, `pembibitan tanaman`, `penyemaian hidroponik`
+  - Quick win keywords: `cara semai benih selada di rockwool`, `cara penyemaian kangkung hidroponik`, `benih tidak berkecambah di rockwool`, `cara merendam benih sebelum semai hidroponik`
+  - HowTo: ✅ 6 langkah (+900% YoY — HARUS komprehensif)
+  - Internal link masuk dari → semua artikel "cara menanam" + Media Tanam ✅
+  - Internal link keluar → Media Tanam ✅, AB Mix ✅, Alat ✅, Kangkung ✅, Selada ✅, Hama ←
 
 ---
 
-## 📅 FASE 5 — Content Sprint: Tier 4 (Expansion)
-> Sep 2026 — Target: 4 artikel baru
+## 📅 FASE 5 — Cluster 2 Expansion + Quick Win YoY
+> Sep 2026 — Target: 4 artikel baru | Total setelah fase ini: **24 artikel**
 
-- [ ] **B3** — Strawberry Hidroponik (trend buah premium)
-  - Judul: **Cara Menanam Strawberry Hidroponik di Rumah: Sistem, Nutrisi, dan Tips Panen**
+- [ ] **B3** — Strawberry Hidroponik (premium fruit, CPM tinggi) 🔵 CLUSTER 2
+  - Judul: **Cara Menanam Strawberry Hidroponik di Rumah: Sistem, Nutrisi, dan Rahasia Buah Manis**
   - Slug: `2026-09-cara-menanam-strawberry-hidroponik`
   - Kategori: `budidaya`
+  - Quick win keywords: `strawberry hidroponik sistem nft`, `cara agar strawberry hidroponik berbuah lebat`, `nutrisi strawberry hidroponik`
+  - HowTo: ✅ 6 langkah | Internal link → NFT Paralon ←, AB Mix ✅, EC/pH ✅, Hama ←
 
-- [ ] **S4** — Timun/Mentimun Hidroponik
-  - Judul: **Cara Menanam Timun Hidroponik: Sistem Drip, Nutrisi, dan Jadwal Panen**
+- [ ] **MK1** — `media tanam kangkung` (500/bln, +900% YoY 🔥, Rendah) 🟠 CLUSTER 2 + 3
+  - Judul: **Media Tanam Kangkung Hidroponik: Rockwool, Cocopeat, atau Hidroton?**
+  - Slug: `2026-09-media-tanam-kangkung-hidroponik`
+  - Kategori: `sayuran-hidroponik`
+  - Quick win keywords: `media tanam kangkung paling bagus`, `kangkung hidroponik pakai apa`, `cocopeat untuk kangkung hidroponik`
+  - HowTo: ✅ | Internal link → Kangkung ✅, Media Tanam ✅, Penyemaian ←, Alat ✅
+
+- [ ] **S4** — Timun Hidroponik 🔵 CLUSTER 2
+  - Judul: **Cara Menanam Timun Hidroponik: Sistem Drip, Nutrisi EC, dan Jadwal Panen Optimal**
   - Slug: `2026-09-cara-menanam-timun-hidroponik`
   - Kategori: `sayuran-hidroponik`
+  - Quick win keywords: `timun hidroponik sistem drip`, `berapa lama timun hidroponik berbuah`, `nutrisi timun hidroponik`
+  - HowTo: ✅ | Internal link → Contoh Tanaman ✅, AB Mix ✅, EC/pH ✅, Hama ←
 
-- [ ] **R6** — Rakit Apung DIY
-  - Judul: **Cara Membuat Rakit Apung Hidroponik dari Styrofoam Bekas Modal 100 Ribu**
+- [ ] **R6** — Rakit Apung Styrofoam (DIY viral) 🔵 CLUSTER 1 + 4
+  - Judul: **Cara Membuat Rakit Apung Hidroponik dari Styrofoam: Modal Rp 100 Ribu, Panen Melimpah**
   - Slug: `2026-09-cara-membuat-rakit-apung-styrofoam`
   - Kategori: `cara-membuat`
-  - Secondary keyword: `sistem rakit apung`, `rakit apung adalah`, `cara menanam sayur hidroponik sederhana`
+  - Quick win keywords: `cara buat rakit apung dari styrofoam bekas`, `rakit apung hidroponik sederhana`, `ukuran styrofoam untuk hidroponik`
+  - HowTo: ✅ 6 langkah | Internal link → Jenis Sistem ✅, Botol Bekas ✅, Alat ✅, Penyemaian ←
 
-- [ ] **K3** — Kangkung di Paralon (long tail spesifik)
-  - Judul: **Cara Menanam Kangkung di Paralon Sistem Hidroponik: Panen dalam 2 Minggu**
-  - Slug: `2026-09-cara-menanam-kangkung-di-paralon`
+---
+
+## 📅 FASE 6 — High CPM Attack + Commercial Intent
+> Okt 2026 — Target: 4 artikel baru | Total setelah fase ini: **28 artikel**
+
+> **Strategi:** Keyword commercial intent = CPC & CPM iklan 3–10× lebih tinggi. Pembaca yang mencari "biaya", "harga", "perbandingan" adalah calon pembeli, bukan sekadar pembaca.
+
+- [ ] **COM1** — `biaya membuat hidroponik paralon` (Tinggi 100! Zero artikel saingan)
+  - Judul: **Biaya Membuat Hidroponik Paralon: Rincian Modal, Harga Komponen, dan Tips Hemat**
+  - Slug: `2026-10-biaya-membuat-hidroponik-paralon`
+  - Kategori: `cara-membuat`
+  - Quick win keywords: `rincian biaya buat hidroponik nft paralon`, `modal awal hidroponik paralon 20 lubang`, `berapa biaya membuat hidroponik sederhana`
+  - HowTo: ❌ (kalkulasi biaya) | Catatan: Competition score 100 = CPC ads sangat tinggi!
+  - Internal link → NFT Paralon ←, Alat ✅, Bisnis ←
+
+- [ ] **COM2** — `harga sayuran hidroponik di pasaran` (Tinggi 70, +∞ trend)
+  - Judul: **Harga Sayuran Hidroponik di Pasaran 2026: Panduan Jual Beli untuk Pemula**
+  - Slug: `2026-10-harga-sayuran-hidroponik-di-pasaran`
+  - Kategori: `budidaya`
+  - Quick win keywords: `harga selada hidroponik per kg`, `harga kangkung hidroponik di supermarket`, `jual sayuran hidroponik ke mana`
+  - Internal link → Bisnis ←, Selada ✅, Kangkung ✅, Tomat ✅
+
+- [ ] **COM3** — `alat hidroponik lengkap` (Tinggi 96, -90% YoY = persaingan drop)
+  - Judul: **Perbandingan Alat Hidroponik Pemula: Dari Yang Gratis Sampai Yang Profesional**
+  - Slug: `2026-10-perbandingan-alat-hidroponik-pemula`
+  - Kategori: `panduan-dasar`
+  - Quick win keywords: `rekomendasi alat hidroponik untuk pemula 2026`, `pompa air terbaik untuk hidroponik`, `tds meter vs ec meter hidroponik`
+  - Internal link → Alat Perlengkapan ✅, EC/pH ✅, NFT Paralon ←, Rakit Apung ←
+
+- [ ] **COM4** — `bawang daun hidroponik` (expansion sayuran premium)
+  - Judul: **Cara Menanam Bawang Daun Hidroponik: Sistem, Nutrisi, dan Panen Berulang**
+  - Slug: `2026-10-cara-menanam-bawang-daun-hidroponik`
   - Kategori: `sayuran-hidroponik`
-  - Secondary keyword: `sayuran di paralon`, `tanam sayur di paralon`, `hidroponik sayur kangkung`
+  - Quick win keywords: `bawang daun hidroponik sistem nft`, `bawang daun hidroponik jual mahal`, `cara panen bawang daun hidroponik berulang`
+  - HowTo: ✅ | Internal link → Contoh Tanaman ✅, AB Mix ✅, EC/pH ✅
+
+---
+
+## 📅 FASE 7 — Long Tail Sweep + Cluster 5 Expansion
+> Nov 2026 — Target: 4 artikel baru | Total setelah fase ini: **32 artikel**
+
+> **Strategi:** Targetkan keyword dengan Competition Score 77–97 tapi ZERO artikel Indonesia — ini adalah lubang besar yang bisa diisi dengan cepat.
+
+- [ ] **LT1** — `cara membuat irigasi tetes` (Competition Score 97! ZERO artikel saingan)
+  - Judul: **Cara Membuat Sistem Irigasi Tetes Hidroponik DIY: Hemat Air, Efisien Nutrisi**
+  - Slug: `2026-11-cara-membuat-irigasi-tetes-hidroponik`
+  - Kategori: `cara-membuat`
+  - Quick win keywords: `cara membuat irigasi tetes dari botol`, `cara membuat pengairan sistem tetes hidroponik`, `drip system hidroponik sederhana`
+  - HowTo: ✅ 6 langkah | Mega long tail sweep: 3 keyword Competition Score 77–97
+  - Internal link → Jenis Sistem ✅, Cabe ✅, Tomat ✅, NFT Paralon ←
+
+- [ ] **P5** — `bertanam di rumah` (Competition Score 100, volume cluster besar)
+  - Judul: **Panduan Bertanam di Rumah Tanpa Lahan: Dari Balkon, Rooftop, sampai Dapur**
+  - Slug: `2026-11-panduan-bertanam-di-rumah-tanpa-lahan`
+  - Kategori: `panduan-dasar`
+  - Quick win keywords: `berkebun di apartemen`, `bertanam di balkon tanpa tanah`, `cara berkebun di halaman sempit`
+  - Internal link → Panduan Lengkap ✅, Botol Bekas ✅, Rakit Apung ←, Contoh Tanaman ✅
+
+- [ ] **C5A** — Daun Kuning (Cluster 5 Spoke) 🟣 CLUSTER 5
+  - Judul: **Daun Tanaman Hidroponik Menguning: 8 Penyebab dan Cara Mengatasinya**
+  - Slug: `2026-11-daun-kuning-tanaman-hidroponik`
+  - Kategori: `panduan-dasar`
+  - Quick win keywords: `kenapa daun selada hidroponik kuning`, `daun kangkung hidroponik pucat`, `defisiensi nitrogen hidroponik gejala`
+  - Internal link → Hama ←, EC/pH ✅, AB Mix ✅, semua artikel budidaya
+
+- [ ] **C5B** — Akar Busuk (Cluster 5 Spoke) 🟣 CLUSTER 5
+  - Judul: **Akar Busuk pada Tanaman Hidroponik: Penyebab, Pencegahan, dan Cara Mengobati**
+  - Slug: `2026-11-akar-busuk-tanaman-hidroponik`
+  - Kategori: `panduan-dasar`
+  - Quick win keywords: `akar tanaman hidroponik cokelat berlendir`, `cara mengatasi akar busuk hidroponik`, `pythium hidroponik`
+  - Internal link → Hama ←, Daun Kuning ←, EC/pH ✅, NFT Paralon ←
+
+---
+
+## 📅 FASE 8 — Topical Authority Selesai
+> Des 2026 — Target: 4 artikel baru | Total setelah fase ini: **36 artikel**
+
+- [ ] **TA1** — Sawi Hidroponik (Cluster 2 completion)
+  - Judul: **Cara Menanam Sawi Hidroponik: Panduan Cepat Panen 20 Hari**
+  - Slug: `2026-12-cara-menanam-sawi-hidroponik`
+  - Kategori: `sayuran-hidroponik`
+  - Quick win keywords: `sawi hidroponik 20 hari panen`, `cara tanam sawi di sistem nft`, `sawi hiroponik vs tanah lebih cepat mana`
+  - HowTo: ✅ | Internal link → Contoh Tanaman ✅, Kangkung ✅, Penyemaian ←, Hama ←
+
+- [ ] **TA2** — Nutrisi Organik (Cluster 3 alternative angle)
+  - Judul: **Nutrisi Organik untuk Hidroponik: Alternatif AB Mix yang Lebih Ramah Lingkungan**
+  - Slug: `2026-12-nutrisi-organik-untuk-hidroponik`
+  - Kategori: `panduan-dasar`
+  - Quick win keywords: `pupuk organik cair untuk hidroponik`, `hidroponik organik tanpa ab mix`, `nutrisi hidroponik dari bahan alami`
+  - Internal link → AB Mix ✅, EC/pH ✅, Contoh Tanaman ✅
+
+- [ ] **TA3** — Kangkung di Paralon (ultra long tail spesifik)
+  - Judul: **Cara Menanam Kangkung di Paralon Sistem NFT: Panen Berulang Tiap 2 Minggu**
+  - Slug: `2026-12-cara-menanam-kangkung-di-paralon-nft`
+  - Kategori: `sayuran-hidroponik`
+  - Quick win keywords: `kangkung di pipa paralon nft`, `kangkung hidroponik paralon panen 2 minggu`, `ukuran paralon untuk kangkung hidroponik`
+  - HowTo: ✅ | Internal link → Kangkung ✅, NFT Paralon ←, Media Tanam Kangkung ←
+
+- [ ] **TA4** — Glossary Hidroponik (authority signal)
+  - Judul: **Kamus Istilah Hidroponik: 60+ Istilah yang Wajib Diketahui Pemula**
+  - Slug: `2026-12-kamus-istilah-hidroponik`
+  - Kategori: `panduan-dasar`
+  - Quick win keywords: `istilah hidroponik dan artinya`, `apa itu ec dalam hidroponik`, `arti nft dft dwc hidroponik`
+  - Catatan: Artikel ini menjadi *reference hub* yang dikutip oleh semua artikel lain → boosts E-E-A-T
 
 ---
 
 ## 🎯 Ringkasan Target per Fase
 
-| Fase | Periode | Aksi Utama | Artikel Baru | Total Artikel |
-|------|---------|------------|-------------|---------------|
-| Fase 1 | 15–31 Mei 2026 | Internal Linking + FAQ + HowTo Schema | 0 | 8 |
-| Fase 2 | Jun 2026 | Tier 1 Keywords (5K volume) | 4 | 12 |
-| Fase 3 | Jul 2026 | Nutrisi, Alat, Teknis | 4 | 16 |
-| Fase 4 | Agu 2026 | Bisnis + Long Tail | 4 | 20 |
-| Fase 5 | Sep 2026 | Expansion | 4 | 24 |
+| Fase | Periode | Strategi Utama | +Artikel | Total |
+|------|---------|----------------|----------|-------|
+| Fase 1 | Mei 2026 | Fondasi Teknis: Internal Link + FAQ + HowTo + E-E-A-T | 0 | 8 |
+| Fase 2 | Jun 2026 | Tier 1 Volume (5K/bln): Cabe, Media Tanam, Contoh, Botol Bekas | 4 | 12 |
+| Fase 3 | Jul 2026 | Nutrisi & Teknis: AB Mix, Alat, EC/pH, Selada Air (+900% YoY) | 4 | 16 |
+| Fase 4 | Agu 2026 | Cluster Expansion: NFT, Hama (Pillar C5), Bisnis, Penyemaian (+900% YoY) | 4 | 20 |
+| Fase 5 | Sep 2026 | YoY Growth + Cluster 2: Strawberry, Media Kangkung (+900%), Timun, Rakit Apung | 4 | 24 |
+| Fase 6 | Okt 2026 | High CPM Attack: Biaya, Harga, Perbandingan Alat, Bawang Daun | 4 | 28 |
+| Fase 7 | Nov 2026 | Long Tail Sweep + Cluster 5: Irigasi Tetes, Bertanam di Rumah, Daun Kuning, Akar Busuk | 4 | 32 |
+| Fase 8 | Des 2026 | Topical Authority: Sawi, Nutrisi Organik, Kangkung Paralon, Glossary | 4 | 36 |
 | Review | Okt 2026 | Evaluasi traffic, update artikel lama, planning Q4 | — | 24 |
 
 ---
