@@ -2,8 +2,8 @@ import { siteConfig } from '@/lib/config';
 import Script from 'next/script';
 
 /**
- * GoogleTagScript – inject G-Tag dengan strategy="afterInteractive"
- * Tidak memblokir rendering → LCP tetap cepat
+ * GoogleTagScript – inject G-Tag dengan strategy="lazyOnload"
+ * Dimuat setelah window.onload → mengurangi blocking main thread (TBT)
  */
 export function GoogleTagScript() {
   if (!siteConfig.gtag) return null;
@@ -12,9 +12,9 @@ export function GoogleTagScript() {
     <>
       <Script
         src={`https://www.googletagmanager.com/gtag/js?id=${siteConfig.gtag}`}
-        strategy="afterInteractive"
+        strategy="lazyOnload"
       />
-      <Script id="gtag-init" strategy="afterInteractive">
+      <Script id="gtag-init" strategy="lazyOnload">
         {`
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
