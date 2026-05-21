@@ -1,7 +1,7 @@
 # 🗺️ Roadmap & Content Plan — Sayur Hidroponik
-> Last updated: 19 Mei 2026  
+> Last updated: 21 Mei 2026  
 > Domain: https://sayur-hidroponik.my.id  
-> Sumber keyword: Google Keyword Planner (Apr 2025 – Mar 2026)
+> Sumber keyword: Google Keyword Planner (Apr 2025 – Mar 2026) + Keyword Golden Ratio (KGR)
 
 ---
 
@@ -17,7 +17,46 @@
 | Smart thumbnail system (PostThumbnail + Unsplash) | ✅ |
 | remark-gfm untuk tabel Markdown | ✅ |
 | Avatar author SVG | ✅ |
-| **Total artikel live** | **30 artikel** |
+| **Total artikel live** | **33 artikel** |
+| Keyword Golden Ratio (KGR) strategy | ✅ Implementasi Mei 2026 |
+
+---
+
+## 🎯 Keyword Golden Ratio (KGR) Strategy
+> Implementasi: Mei 2026 | Formula: KGR = allintitle / volume (target < 0.25, syarat: volume < 250/bln)
+
+**Prinsip:** KGR mengincar keyword yang sangat spesifik dengan volume rendah (<250) tapi hampir tidak ada kompetitor yang menargetkannya di judul artikel. Cocok untuk bahasa Indonesia karena pasar lebih kecil = KGR alami sangat bagus.
+
+### Cara Mengecek KGR Keyword Baru
+1. Cari keyword long-tail spesifik (pertanyaan, masalah, angka/ukuran)
+2. Cek volume di Google Keyword Planner → ambil yang **< 250/bulan**
+3. Ketik `allintitle:"keyword anda"` di Google → catat jumlah hasil
+4. Hitung KGR = allintitle ÷ volume → targetkan **< 0.25**
+
+### 📊 Artikel KGR yang Sudah Dibuat
+
+| # | Slug | KGR Keyword Target | Vol Est. | allintitle Est. | KGR Est. | Status |
+|---|------|--------------------|----------|-----------------|----------|--------|
+| 1 | `2026-05-benih-tidak-berkecambah-di-rockwool` | `benih tidak berkecambah di rockwool` | 50–100 | 0–5 | ~0.05 | ✅ Live |
+| 2 | `2026-05-tabel-ec-ph-optimal-sayuran-hidroponik` | `tabel ec ph sayuran hidroponik` | 30–80 | 0–3 | ~0.04 | ✅ Live |
+| 3 | `2026-05-daun-kuning-tanaman-hidroponik` | `daun kuning tanaman hidroponik` | 100–200 | 3–8 | ~0.04 | ✅ Live |
+
+### 🔍 Kandidat KGR Berikutnya (Belum Dibuat)
+
+> Verifikasi allintitle dan volume sebelum membuat artikel. Cek `allintitle:"keyword"` di Google.
+
+| KGR Keyword Kandidat | Vol Est. | Catatan |
+|----------------------|----------|---------|
+| `berapa lama kangkung hidroponik bisa dipanen` | 50–100 | Sangat spesifik, jawaban langsung |
+| `cara mengatasi akar berlendir hidroponik` | 30–80 | Problem-solving, berbeda dari artikel hama |
+| `berapa watt pompa air untuk hidroponik nft` | 20–60 | Technical spec, commercial intent |
+| `rockwool bekas bisa dipakai lagi tidak` | 30–80 | FAQ spesifik, tidak ada artikel serupa |
+| `cara membuat nutrisi hidroponik dari pupuk npk` | 50–150 | DIY angle berbeda dari AB Mix |
+| `berapa liter nutrisi untuk 1 meter pipa nft` | 10–50 | Sangat niche, zero competition |
+| `kapan mengganti air nutrisi hidroponik` | 50–120 | Pertanyaan pemula yang umum |
+| `air nutrisi hidroponik berbusa kenapa` | 20–60 | Problem-solving spesifik |
+| `perbedaan rockwool dan cocopeat untuk hidroponik` | 50–150 | Comparison article, KGR friendly |
+| `cara memperbanyak tanaman kangkung dari stek` | 30–80 | Specific technique |
 
 ---
 
